@@ -5,11 +5,11 @@
 
 > Resistor 680000 Ohm QUARTER_WATT_THROUGH_HOLE is an OOMP electronic resistor definition. It uses the quarter watt through hole package or form factor. Its nominal drawing size is 6.5 × 2.5 mm.
 
-<p align="center"><img src="preview.svg" alt="Resistor 680000 Ohm QUARTER_WATT_THROUGH_HOLE preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Resistor 680000 Ohm QUARTER_WATT_THROUGH_HOLE preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_quarter_watt_through_hole_680000_ohm)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_quarter_watt_through_hole_680000_ohm)
 
 </div>
 

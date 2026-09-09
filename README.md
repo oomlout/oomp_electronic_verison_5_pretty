@@ -25,14 +25,19 @@
 
 Start broad and follow the taxonomy until you reach the exact part or board. Every record appears **once** in the tree, every page carries its context as a breadcrumb, and every concise entry links back to the complete source record.
 
-- **Fast:** only Markdown and lightweight previews are included.
+- **Visual:** every part and project has a display-ready, locally stored PNG.
 - **Focused:** high-value metadata is surfaced before implementation detail.
 - **Traceable:** “Full details” always opens the canonical page in the original repository.
+- **Explorable:** every project links to a GitHub Pages HTML board explorer; processed boards retain the full interactive explorer.
 - **Reproducible:** run `rebuild.bat` here, or `generate_pretty_repository.bat` in the source checkout.
 
 ## What stays in the full repository
 
-KiCad source, footprints, symbols, manufacturing files, large render sets, working YAML, board explorers, and generation intermediates remain in the [complete OOMP repository](https://github.com/oomlout/oomp_electronic_version_5). This repository is its welcoming, README-first front door.
+KiCad source, footprints, symbols, manufacturing files, large render sets, working YAML, and generation intermediates remain in the [complete OOMP repository](https://github.com/oomlout/oomp_electronic_version_5). This repository is its welcoming, README-first front door.
+
+## Publishing the explorers
+
+In the repository's **Settings → Pages**, select **GitHub Actions** as the source. The included static Pages workflow publishes the repository after each push to `main`, while `.nojekyll` keeps the self-contained HTML explorers intact. Explorer links are configured for [https://oomlout.github.io/oomp_electronic_verison_5_pretty](https://oomlout.github.io/oomp_electronic_verison_5_pretty).
 
 ---
 

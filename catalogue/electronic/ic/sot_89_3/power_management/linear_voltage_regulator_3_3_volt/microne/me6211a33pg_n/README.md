@@ -5,11 +5,11 @@
 
 > IC ME6211A33PG-N SOT 89 3 is an OOMP electronic ic definition. It uses the sot 89 3 package or form factor. Its nominal drawing size is 4.5 × 2.5 mm. The definition includes 3 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC ME6211A33PG-N SOT 89 3 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC ME6211A33PG-N SOT 89 3 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_89_3_power_management_linear_voltage_regulator_3_3_volt_microne_me6211a33pg_n)
 
 </div>
 

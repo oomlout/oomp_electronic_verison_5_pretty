@@ -5,11 +5,11 @@
 
 > Sensor Module U Blox Sam M8Q GNSS is an OOMP electronic sensor definition. It uses the gnss package or form factor. Its nominal drawing size is 15.5 × 15.5 mm. The definition includes 20 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Sensor Module U Blox Sam M8Q GNSS preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Sensor Module U Blox Sam M8Q GNSS preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_gnss_module_u_blox_sam_m8q)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_gnss_module_u_blox_sam_m8q)
 
 </div>
 

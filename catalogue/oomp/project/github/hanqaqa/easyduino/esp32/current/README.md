@@ -5,11 +5,11 @@
 
 > Project hanqaqa/easyduino ESP32 current is a KiCad project containing 64 extracted component records. The catalogue matcher linked 28 physical placements to OOMP parts.
 
-<p align="center"><img src="preview.svg" alt="Project hanqaqa/easyduino ESP32 current preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Project hanqaqa/easyduino ESP32 current preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_hanqaqa_easyduino_esp32_current)** · [Original project files](https://github.com/Hanqaqa/Easyduino/tree/master/ESP32)
+**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/hanqaqa/easyduino/esp32/current/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_hanqaqa_easyduino_esp32_current) · [Original project files](https://github.com/Hanqaqa/Easyduino/tree/master/ESP32)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## About this page
 
-This is the compact catalogue view. A detailed source README is available. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_hanqaqa_easyduino_esp32_current).
+This is the compact catalogue view. A detailed source README is available. The [interactive board explorer](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/hanqaqa/easyduino/esp32/current/board_explorer.html) is included as a self-contained HTML page. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_hanqaqa_easyduino_esp32_current).
 
 ---
 

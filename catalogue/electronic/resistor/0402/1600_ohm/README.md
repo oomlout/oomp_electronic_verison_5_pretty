@@ -5,11 +5,11 @@
 
 > A concise OOMP catalogue definition organised under Electronic › Resistor › 0402 › 1600 Ohm.
 
-<p align="center"><img src="preview.svg" alt="Resistor 1600 Ohm 0402 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Resistor 1600 Ohm 0402 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_1600_ohm)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_1600_ohm)
 
 </div>
 

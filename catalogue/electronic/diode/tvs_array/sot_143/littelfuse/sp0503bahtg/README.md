@@ -5,11 +5,11 @@
 
 > Diode SP0503BAHTG SOT-143 is an OOMP electronic diode definition. It uses the sot 143 package or form factor. Its nominal drawing size is 2.92 × 2.37 mm. The definition includes 4 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Diode SP0503BAHTG SOT-143 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Diode SP0503BAHTG SOT-143 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_tvs_array_sot_143_littelfuse_sp0503bahtg)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_tvs_array_sot_143_littelfuse_sp0503bahtg)
 
 </div>
 

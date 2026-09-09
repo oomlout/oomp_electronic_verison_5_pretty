@@ -5,11 +5,11 @@
 
 > Ferrite Bead 220 Ohm 2 2 Amp Murata BLM18KG221SN1D 0603 is an OOMP electronic ferrite bead definition. It uses the 0603 package or form factor. Its nominal drawing size is 1.6 × 0.8 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Ferrite Bead 220 Ohm 2 2 Amp Murata BLM18KG221SN1D 0603 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Ferrite Bead 220 Ohm 2 2 Amp Murata BLM18KG221SN1D 0603 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ferrite_bead_0603_220_ohm_2_2_amp_murata_blm18kg221sn1d)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ferrite_bead_0603_220_ohm_2_2_amp_murata_blm18kg221sn1d)
 
 </div>
 

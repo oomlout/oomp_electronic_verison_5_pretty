@@ -5,11 +5,11 @@
 
 > IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM is an OOMP electronic ic definition. It uses the qfn 32 5 mm x 5 mm package or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes 32 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Trusted Platform Module Trusted Platform Module Infineon QFN_32_5_MM_X_5_MM preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_32_5_mm_x_5_mm_trusted_platform_module_trusted_platform_module_infineon_slb9665)
 
 </div>
 

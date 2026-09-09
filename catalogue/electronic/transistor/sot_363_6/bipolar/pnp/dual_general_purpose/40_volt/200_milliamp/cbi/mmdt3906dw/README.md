@@ -5,11 +5,11 @@
 
 > Transistor MMDT3906DW SOT 363 6 is an OOMP electronic transistor definition. It uses the sot 363 6 package or form factor. Its nominal drawing size is 2.1 × 2.3 mm. The definition includes 6 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Transistor MMDT3906DW SOT 363 6 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Transistor MMDT3906DW SOT 363 6 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_363_6_bipolar_pnp_dual_general_purpose_40_volt_200_milliamp_cbi_mmdt3906dw)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_363_6_bipolar_pnp_dual_general_purpose_40_volt_200_milliamp_cbi_mmdt3906dw)
 
 </div>
 

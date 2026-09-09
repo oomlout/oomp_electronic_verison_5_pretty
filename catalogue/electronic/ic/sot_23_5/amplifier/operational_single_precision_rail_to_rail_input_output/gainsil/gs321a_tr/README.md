@@ -5,11 +5,11 @@
 
 > IC GS321A-TR SOT 23 5 is an OOMP electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal drawing size is 2.92 × 2.8 mm. The definition includes 5 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC GS321A-TR SOT 23 5 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC GS321A-TR SOT 23 5 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_amplifier_operational_single_precision_rail_to_rail_input_output_gainsil_gs321a_tr)
 
 </div>
 

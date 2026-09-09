@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-09T14:15:15+00:00",
+  "generated_at_utc": "2026-09-09T19:31:06+00:00",
   "source_root": "C:\\gh\\oomp_electronic_version_5",
   "source_repository": "https://github.com/oomlout/oomp_electronic_version_5",
   "source_branch": "main",
@@ -10,6 +10,9 @@
   "projects": 915,
   "navigation_nodes": 4633,
   "source_readmes": 1347,
-  "local_previews": 1357,
-  "remote_previews": 0
+  "png_previews": 2159,
+  "source_artwork_previews": 1357,
+  "metadata_card_previews": 802,
+  "interactive_board_explorers": 113,
+  "project_landing_pages": 802
 }

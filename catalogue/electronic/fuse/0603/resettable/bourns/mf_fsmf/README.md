@@ -5,11 +5,11 @@
 
 > Fuse MF-FSMF 0603 is an OOMP electronic fuse definition. It uses the 0603 package or form factor. Its nominal drawing size is 1.6 × 0.8 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Fuse MF-FSMF 0603 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Fuse MF-FSMF 0603 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_fuse_0603_resettable_bourns_mf_fsmf)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_fuse_0603_resettable_bourns_mf_fsmf)
 
 </div>
 

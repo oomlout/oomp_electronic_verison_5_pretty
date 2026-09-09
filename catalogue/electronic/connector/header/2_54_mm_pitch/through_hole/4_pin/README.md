@@ -5,11 +5,11 @@
 
 > Connector Header PZ2.54-S04P-A60 is an OOMP electronic connector definition. It uses the header package or form factor. Its nominal drawing size is 10.16 × 2.48 mm.
 
-<p align="center"><img src="preview.svg" alt="Connector Header PZ2.54-S04P-A60 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector Header PZ2.54-S04P-A60 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_4_pin)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_4_pin)
 
 </div>
 

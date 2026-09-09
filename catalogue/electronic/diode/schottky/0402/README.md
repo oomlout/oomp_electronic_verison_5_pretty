@@ -5,11 +5,11 @@
 
 > Diode Schottky 0402 is an OOMP electronic diode definition. It uses the 0402 package or form factor. Its nominal drawing size is 10.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Diode Schottky 0402 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Diode Schottky 0402 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_schottky_0402)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_schottky_0402)
 
 </div>
 

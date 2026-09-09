@@ -5,11 +5,11 @@
 
 > Fuse Resettable 1210 is an OOMP electronic fuse definition. It uses the 1210 package or form factor. Its nominal drawing size is 10.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Fuse Resettable 1210 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Fuse Resettable 1210 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_fuse_1210_resettable)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_fuse_1210_resettable)
 
 </div>
 

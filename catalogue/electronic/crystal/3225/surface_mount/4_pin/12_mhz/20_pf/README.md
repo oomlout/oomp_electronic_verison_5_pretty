@@ -5,11 +5,11 @@
 
 > Crystal 12 MHz 20 pF 3225 4-pin is an OOMP electronic crystal definition. It uses the 3225 package or form factor. Its nominal drawing size is 3.2 × 2.5 mm.
 
-<p align="center"><img src="preview.svg" alt="Crystal 12 MHz 20 pF 3225 4-pin preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Crystal 12 MHz 20 pF 3225 4-pin preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_crystal_3225_surface_mount_4_pin_12_mhz_20_pf)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_crystal_3225_surface_mount_4_pin_12_mhz_20_pf)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > IC AiP74HCT245TA20.TR TSSOP 20 is an OOMP electronic ic definition. It uses the tssop 20 package or form factor. Its nominal drawing size is 6.5 × 4.4 mm. The definition includes 20 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC AiP74HCT245TA20.TR TSSOP 20 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC AiP74HCT245TA20.TR TSSOP 20 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_20_logic_octal_bus_transceiver_wuxi_i_core_elec_aip74hct245ta20_tr)
 
 </div>
 

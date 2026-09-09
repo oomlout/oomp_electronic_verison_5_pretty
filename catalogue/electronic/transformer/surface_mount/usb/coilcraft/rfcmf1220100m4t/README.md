@@ -5,11 +5,11 @@
 
 > Transformer Usb Coilcraft RFCMF1220100M4T SURFACE MOUNT is an OOMP electronic transformer definition. It uses the surface mount package or form factor. Its nominal drawing size is 12.0 × 10.0 mm. The definition includes 4 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Transformer Usb Coilcraft RFCMF1220100M4T SURFACE MOUNT preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Transformer Usb Coilcraft RFCMF1220100M4T SURFACE MOUNT preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transformer_surface_mount_usb_coilcraft_rfcmf1220100m4t)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transformer_surface_mount_usb_coilcraft_rfcmf1220100m4t)
 
 </div>
 

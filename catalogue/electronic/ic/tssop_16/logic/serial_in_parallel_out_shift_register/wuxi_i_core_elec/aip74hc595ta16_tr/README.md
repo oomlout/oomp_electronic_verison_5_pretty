@@ -5,11 +5,11 @@
 
 > IC AiP74HC595TA16.TR TSSOP 16 is an OOMP electronic ic definition. It uses the tssop 16 package or form factor. Its nominal drawing size is 5.0 × 4.4 mm. The definition includes 16 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC AiP74HC595TA16.TR TSSOP 16 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC AiP74HC595TA16.TR TSSOP 16 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_16_logic_serial_in_parallel_out_shift_register_wuxi_i_core_elec_aip74hc595ta16_tr)
 
 </div>
 

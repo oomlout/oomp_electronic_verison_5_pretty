@@ -5,11 +5,11 @@
 
 > A concise OOMP catalogue definition organised under Electronic › Sensor › Accelerometer › Lga 14.
 
-<p align="center"><img src="preview.svg" alt="Sensor Lga 14 Analog Devices ADXL343 ACCELEROMETER preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Sensor Lga 14 Analog Devices ADXL343 ACCELEROMETER preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_accelerometer_lga_14_analog_devices_adxl343)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_accelerometer_lga_14_analog_devices_adxl343)
 
 </div>
 

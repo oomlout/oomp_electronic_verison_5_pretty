@@ -5,11 +5,11 @@
 
 > IC Audio Audio Player My Semi SO_16 is an OOMP electronic ic definition. It uses the so 16 package or form factor. Its nominal drawing size is 10.0 × 4.0 mm. The definition includes 16 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Audio Audio Player My Semi SO_16 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Audio Audio Player My Semi SO_16 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_so_16_audio_audio_player_my_semi_my1690x_16s)
 
 </div>
 

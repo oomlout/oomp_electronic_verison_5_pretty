@@ -5,11 +5,11 @@
 
 > Transistor Mosfet N Channel Dual SOT 363 6 is an OOMP electronic transistor definition. It uses the sot 363 6 package or form factor. Its nominal drawing size is 2.0 × 1.25 mm.
 
-<p align="center"><img src="preview.svg" alt="Transistor Mosfet N Channel Dual SOT 363 6 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Transistor Mosfet N Channel Dual SOT 363 6 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_363_6_mosfet_n_channel_dual)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_363_6_mosfet_n_channel_dual)
 
 </div>
 

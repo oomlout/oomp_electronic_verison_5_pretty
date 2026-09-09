@@ -5,11 +5,11 @@
 
 > Diode DT1042-04SO SOT-26 is an OOMP electronic diode definition. It uses the sot 26 package or form factor. Its nominal drawing size is 3.0 × 1.6 mm. The definition includes 6 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Diode DT1042-04SO SOT-26 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Diode DT1042-04SO SOT-26 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_tvs_array_sot_26_diodes_incorporated_dt1042_04so)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_tvs_array_sot_26_diodes_incorporated_dt1042_04so)
 
 </div>
 

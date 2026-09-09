@@ -5,11 +5,11 @@
 
 > IC Memory SPI Nor Flash Winbond USON_8 is an OOMP electronic ic definition. It uses the uson 8 package or form factor. Its nominal drawing size is 3.0 × 2.0 mm. The definition includes 8 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Memory SPI Nor Flash Winbond USON_8 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Memory SPI Nor Flash Winbond USON_8 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_uson_8_memory_spi_nor_flash_winbond_w25q16jvuxiq)
 
 </div>
 

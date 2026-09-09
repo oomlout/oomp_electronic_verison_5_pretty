@@ -5,11 +5,11 @@
 
 > Resistor 133000 Ohm 1206 is an OOMP electronic resistor definition. It uses the 1206 package or form factor. Its nominal drawing size is 3.2 × 1.6 mm.
 
-<p align="center"><img src="preview.svg" alt="Resistor 133000 Ohm 1206 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Resistor 133000 Ohm 1206 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_1206_133000_ohm)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_1206_133000_ohm)
 
 </div>
 

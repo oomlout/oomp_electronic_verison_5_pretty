@@ -5,11 +5,11 @@
 
 > Resistor 820000 Ohm 0402 is an OOMP electronic resistor definition. It uses the 0402 package or form factor. Its nominal drawing size is 1.0 × 0.5 mm.
 
-<p align="center"><img src="preview.svg" alt="Resistor 820000 Ohm 0402 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Resistor 820000 Ohm 0402 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_820000_ohm)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_820000_ohm)
 
 </div>
 

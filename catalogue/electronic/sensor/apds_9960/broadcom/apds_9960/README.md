@@ -5,11 +5,11 @@
 
 > Sensor Broadcom Apds 9960 APDS 9960 is an OOMP electronic sensor definition. It uses the apds 9960 package or form factor. Its nominal drawing size is 10.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Sensor Broadcom Apds 9960 APDS 9960 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Sensor Broadcom Apds 9960 APDS 9960 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_apds_9960_broadcom_apds_9960)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_apds_9960_broadcom_apds_9960)
 
 </div>
 

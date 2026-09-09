@@ -5,11 +5,11 @@
 
 > Connector Header ZX-PZ2.54-1-16PZZ is an OOMP electronic connector definition. It uses the header package or form factor. Its nominal drawing size is 40.64 × 2.48 mm.
 
-<p align="center"><img src="preview.svg" alt="Connector Header ZX-PZ2.54-1-16PZZ preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector Header ZX-PZ2.54-1-16PZZ preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_16_pin)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_16_pin)
 
 </div>
 

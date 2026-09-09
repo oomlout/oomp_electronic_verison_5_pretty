@@ -5,11 +5,11 @@
 
 > Switch Surface Mount Alps Alpine SKRPACE010 TACTILE is an OOMP electronic switch definition. It uses the tactile package or form factor. Its nominal drawing size is 4.2 × 3.2 mm. The definition includes 4 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Switch Surface Mount Alps Alpine SKRPACE010 TACTILE preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Switch Surface Mount Alps Alpine SKRPACE010 TACTILE preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_tactile_surface_mount_alps_alpine_skrpace010)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_tactile_surface_mount_alps_alpine_skrpace010)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > LED Blue Tint 0603 is an OOMP electronic led definition. It uses the 0603 package or form factor. Its nominal drawing size is 1.6 × 0.8 mm.
 
-<p align="center"><img src="preview.svg" alt="LED Blue Tint 0603 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="LED Blue Tint 0603 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_0603_blue_tint)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_0603_blue_tint)
 
 </div>
 

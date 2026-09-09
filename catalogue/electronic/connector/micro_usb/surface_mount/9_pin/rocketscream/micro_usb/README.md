@@ -5,11 +5,11 @@
 
 > Connector Micro Usb MICRO-USB is an OOMP electronic connector definition. It uses the micro usb package or form factor. Its nominal drawing size is 9.15 × 6.3 mm. The definition includes 9 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector Micro Usb MICRO-USB preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector Micro Usb MICRO-USB preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_micro_usb_surface_mount_9_pin_rocketscream_micro_usb)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_micro_usb_surface_mount_9_pin_rocketscream_micro_usb)
 
 </div>
 

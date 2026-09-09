@@ -5,11 +5,11 @@
 
 > Connector Header PH2.54-01-15PZD is an OOMP electronic connector definition. It uses the header package or form factor. Its nominal drawing size is 38.1 × 2.48 mm.
 
-<p align="center"><img src="preview.svg" alt="Connector Header PH2.54-01-15PZD preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector Header PH2.54-01-15PZD preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_15_pin)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_15_pin)
 
 </div>
 

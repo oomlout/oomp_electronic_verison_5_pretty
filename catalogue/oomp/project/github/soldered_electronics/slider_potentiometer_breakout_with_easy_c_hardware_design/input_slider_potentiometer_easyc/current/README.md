@@ -5,11 +5,11 @@
 
 > Project soldered_electronics/Slider-potentiometer-breakout-with-easyC-hardware-design Slider Potentiometer easyC current is a KiCad project containing 37 extracted component records. The catalogue matcher linked 14 physical placements to OOMP parts.
 
-<p align="center"><img src="preview.svg" alt="Project soldered_electronics/Slider-potentiometer-breakout-with-easyC-hardware-design preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Project soldered_electronics/Slider-potentiometer-breakout-with-easyC-hardware-design preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_slider_potentiometer_breakout_with_easy_c_hardware_design_input_slider_potentiometer_easyc_current)** · [Original project files](https://github.com/SolderedElectronics/Slider-potentiometer-breakout-with-easyC-hardware-design)
+**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/soldered_electronics/slider_potentiometer_breakout_with_easy_c_hardware_design/input_slider_potentiometer_easyc/current/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_slider_potentiometer_breakout_with_easy_c_hardware_design_input_slider_potentiometer_easyc_current) · [Original project files](https://github.com/SolderedElectronics/Slider-potentiometer-breakout-with-easyC-hardware-design)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## About this page
 
-This is the compact catalogue view. A detailed source README is available. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_slider_potentiometer_breakout_with_easy_c_hardware_design_input_slider_potentiometer_easyc_current).
+This is the compact catalogue view. A detailed source README is available. The [interactive board explorer](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/soldered_electronics/slider_potentiometer_breakout_with_easy_c_hardware_design/input_slider_potentiometer_easyc/current/board_explorer.html) is included as a self-contained HTML page. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_slider_potentiometer_breakout_with_easy_c_hardware_design_input_slider_potentiometer_easyc_current).
 
 ---
 

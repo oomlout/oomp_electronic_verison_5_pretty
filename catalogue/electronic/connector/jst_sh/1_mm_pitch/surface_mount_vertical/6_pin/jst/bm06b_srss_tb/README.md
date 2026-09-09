@@ -5,11 +5,11 @@
 
 > Connector JST Sh BM06B-SRSS-TB is an OOMP electronic connector definition. It uses the jst sh package or form factor. Its nominal drawing size is 8.0 × 2.9 mm. The definition includes 6 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector JST Sh BM06B-SRSS-TB preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector JST Sh BM06B-SRSS-TB preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_sh_1_mm_pitch_surface_mount_vertical_6_pin_jst_bm06b_srss_tb)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_sh_1_mm_pitch_surface_mount_vertical_6_pin_jst_bm06b_srss_tb)
 
 </div>
 

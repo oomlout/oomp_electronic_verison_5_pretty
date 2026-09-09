@@ -5,11 +5,11 @@
 
 > IC CP2102-GMR QFN 28 5 MM X 5 MM is an OOMP electronic ic definition. It uses the qfn 28 5 mm x 5 mm package or form factor. Its nominal drawing size is 5.0 × 5.0 mm. The definition includes 29 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC CP2102-GMR QFN 28 5 MM X 5 MM preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC CP2102-GMR QFN 28 5 MM X 5 MM preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102_gmr)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_28_5_mm_x_5_mm_converter_usb_to_serial_converter_silicon_labs_cp2102_gmr)
 
 </div>
 

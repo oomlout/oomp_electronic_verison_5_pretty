@@ -5,11 +5,11 @@
 
 > IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4 is an OOMP electronic ic definition. It uses the sot 223 4 package or form factor. Its nominal drawing size is 6.5 × 7.0 mm. The definition includes 4 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Power Management Linear Voltage Regulator 3 3 Volt St SOT_223_4 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_4_power_management_linear_voltage_regulator_3_3_volt_st_ld1117_3_3)
 
 </div>
 

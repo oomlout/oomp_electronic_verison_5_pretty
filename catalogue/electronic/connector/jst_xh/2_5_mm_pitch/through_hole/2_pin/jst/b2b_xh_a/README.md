@@ -5,11 +5,11 @@
 
 > Connector JST Xh B2B-XH-A is an OOMP electronic connector definition. It uses the jst xh package or form factor. Its nominal drawing size is 7.4 × 5.75 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector JST Xh B2B-XH-A preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector JST Xh B2B-XH-A preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_xh_2_5_mm_pitch_through_hole_2_pin_jst_b2b_xh_a)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_xh_2_5_mm_pitch_through_hole_2_pin_jst_b2b_xh_a)
 
 </div>
 

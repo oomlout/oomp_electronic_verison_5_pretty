@@ -5,11 +5,11 @@
 
 > IC Converter Usb To Serial Converter Wch QFN_24 is an OOMP electronic ic definition. It uses the qfn 24 package or form factor. Its nominal drawing size is 4.0 × 4.0 mm. The definition includes 24 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Converter Usb To Serial Converter Wch QFN_24 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Converter Usb To Serial Converter Wch QFN_24 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_24_converter_usb_to_serial_converter_wch_ch342f)
 
 </div>
 

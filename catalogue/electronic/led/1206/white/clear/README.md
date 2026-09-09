@@ -5,11 +5,11 @@
 
 > LED White Clear 1206 is an OOMP electronic led definition. It uses the 1206 package or form factor. Its nominal drawing size is 3.2 × 1.6 mm.
 
-<p align="center"><img src="preview.svg" alt="LED White Clear 1206 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="LED White Clear 1206 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_1206_white_clear)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_1206_white_clear)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > Sensor 3 Pin AM312 PIR is an OOMP electronic sensor definition. It uses the pir package or form factor. Its nominal drawing size is 10.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Sensor 3 Pin AM312 PIR preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Sensor 3 Pin AM312 PIR preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_pir_3_pin_am312)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_pir_3_pin_am312)
 
 </div>
 

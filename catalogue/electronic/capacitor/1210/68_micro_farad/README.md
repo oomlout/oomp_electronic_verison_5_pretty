@@ -5,11 +5,11 @@
 
 > Capacitor 68 uF 1210 is an OOMP electronic capacitor definition. It uses the 1210 package or form factor. Its nominal drawing size is 10.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Capacitor 68 uF 1210 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Capacitor 68 uF 1210 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_1210_68_micro_farad)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_1210_68_micro_farad)
 
 </div>
 

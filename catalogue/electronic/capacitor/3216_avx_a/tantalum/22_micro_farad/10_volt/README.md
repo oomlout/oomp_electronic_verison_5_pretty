@@ -5,11 +5,11 @@
 
 > Capacitor 22 uF 10 V Tantalum 3216 AVX A is an OOMP electronic capacitor definition. It uses the 3216 avx a package or form factor. Its nominal drawing size is 3.2 × 1.6 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Capacitor 22 uF 10 V Tantalum 3216 AVX A preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Capacitor 22 uF 10 V Tantalum 3216 AVX A preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_22_micro_farad_10_volt)
 
 </div>
 

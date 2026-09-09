@@ -5,11 +5,11 @@
 
 > Switch Surface Mount Omron B3FS 100XP TACTILE is an OOMP electronic switch definition. It uses the tactile package or form factor. Its nominal drawing size is 8.0 × 8.0 mm. The definition includes 4 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Switch Surface Mount Omron B3FS 100XP TACTILE preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Switch Surface Mount Omron B3FS 100XP TACTILE preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_tactile_surface_mount_omron_b3fs_100xp)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_tactile_surface_mount_omron_b3fs_100xp)
 
 </div>
 

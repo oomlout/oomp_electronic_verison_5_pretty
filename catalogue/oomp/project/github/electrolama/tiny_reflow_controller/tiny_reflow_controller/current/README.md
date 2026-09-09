@@ -5,11 +5,11 @@
 
 > Project electrolama/TinyReflowController Tiny Reflow Controller current is a KiCad project containing 114 extracted component records. The catalogue matcher linked 60 physical placements to OOMP parts.
 
-<p align="center"><img src="preview.svg" alt="Project electrolama/TinyReflowController Tiny Reflow Controller current preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Project electrolama/TinyReflowController Tiny Reflow Controller current preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_electrolama_tiny_reflow_controller_tiny_reflow_controller_current)** · [Original project files](https://github.com/electrolama/TinyReflowController/tree/master/hardware/Revision%20A1)
+**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/electrolama/tiny_reflow_controller/tiny_reflow_controller/current/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_electrolama_tiny_reflow_controller_tiny_reflow_controller_current) · [Original project files](https://github.com/electrolama/TinyReflowController/tree/master/hardware/Revision%20A1)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## About this page
 
-This is the compact catalogue view. A detailed source README is available. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_electrolama_tiny_reflow_controller_tiny_reflow_controller_current).
+This is the compact catalogue view. A detailed source README is available. The [interactive board explorer](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/electrolama/tiny_reflow_controller/tiny_reflow_controller/current/board_explorer.html) is included as a self-contained HTML page. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_electrolama_tiny_reflow_controller_tiny_reflow_controller_current).
 
 ---
 

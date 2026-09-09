@@ -5,11 +5,11 @@
 
 > Project soldered_electronics/Load-cell-ampfilier-HX711-board-qwiic-hardware-design HX711 Load Cell qwiic current is a KiCad project containing 62 extracted component records. The catalogue matcher linked 25 physical placements to OOMP parts.
 
-<p align="center"><img src="preview.svg" alt="Project soldered_electronics/Load-cell-ampfilier-HX711-board-qwiic-hardware-design preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Project soldered_electronics/Load-cell-ampfilier-HX711-board-qwiic-hardware-design preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_qwiic_hardware_design_sensor_load_cell_hx711_qwiic_current)** · [Original project files](https://github.com/SolderedElectronics/Load-cell-amplifier-HX711-board-qwiic-hardware-design)
+**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/soldered_electronics/load_cell_ampfilier_hx711_board_qwiic_hardware_design/sensor_load_cell_hx711_qwiic/current/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_qwiic_hardware_design_sensor_load_cell_hx711_qwiic_current) · [Original project files](https://github.com/SolderedElectronics/Load-cell-amplifier-HX711-board-qwiic-hardware-design)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## About this page
 
-This is the compact catalogue view. A detailed source README is available. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_qwiic_hardware_design_sensor_load_cell_hx711_qwiic_current).
+This is the compact catalogue view. A detailed source README is available. The [interactive board explorer](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/soldered_electronics/load_cell_ampfilier_hx711_board_qwiic_hardware_design/sensor_load_cell_hx711_qwiic/current/board_explorer.html) is included as a self-contained HTML page. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_load_cell_ampfilier_hx711_board_qwiic_hardware_design_sensor_load_cell_hx711_qwiic_current).
 
 ---
 

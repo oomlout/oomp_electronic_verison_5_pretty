@@ -5,11 +5,11 @@
 
 > Connector USB-C TYPE-C-31-M-12 is an OOMP electronic connector definition. It uses the usb c package or form factor. Its nominal drawing size is 8.94 × 7.35 mm. The definition includes 16 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector USB-C TYPE-C-31-M-12 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector USB-C TYPE-C-31-M-12 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_usb_c_surface_mount_16_pin_korean_hroparts_elec_typec31m12)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_usb_c_surface_mount_16_pin_korean_hroparts_elec_typec31m12)
 
 </div>
 

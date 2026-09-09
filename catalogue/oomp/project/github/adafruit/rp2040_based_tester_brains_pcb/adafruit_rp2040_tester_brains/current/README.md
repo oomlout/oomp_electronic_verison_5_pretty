@@ -5,9 +5,11 @@
 
 > A concise OOMP hardware project organised under OOMP › Project › GitHub › Adafruit.
 
+<p align="center"><img src="preview.png" alt="Project adafruit/RP2040-Based-Tester-Brains-PCB Adafruit RP2040 Tester preview" width="560"></p>
+
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_rp2040_based_tester_brains_pcb_adafruit_rp2040_tester_brains_current)** · [Original project files](https://github.com/adafruit/RP2040-Based-Tester-Brains-PCB/blob/main/Adafruit%20RP2040%20Tester%20Brains%20rev%20A.brd)
+**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/adafruit/rp2040_based_tester_brains_pcb/adafruit_rp2040_tester_brains/current/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_rp2040_based_tester_brains_pcb_adafruit_rp2040_tester_brains_current) · [Original project files](https://github.com/adafruit/RP2040-Based-Tester-Brains-PCB/blob/main/Adafruit%20RP2040%20Tester%20Brains%20rev%20A.brd)
 
 </div>
 
@@ -30,7 +32,7 @@
 
 ## About this page
 
-This is the compact catalogue view. This index entry was built directly from its working metadata. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_rp2040_based_tester_brains_pcb_adafruit_rp2040_tester_brains_current).
+This is the compact catalogue view. This index entry was built directly from its working metadata. The [board explorer page](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/adafruit/rp2040_based_tester_brains_pcb/adafruit_rp2040_tester_brains/current/board_explorer.html) currently shows the project preview and source links; interactive board geometry will appear after the source project has been processed. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_rp2040_based_tester_brains_pcb_adafruit_rp2040_tester_brains_current).
 
 ---
 

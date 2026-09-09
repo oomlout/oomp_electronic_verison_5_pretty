@@ -5,9 +5,11 @@
 
 > A concise OOMP hardware project organised under OOMP › Project › GitHub › Adafruit.
 
+<p align="center"><img src="preview.png" alt="Project adafruit/Adafruit-SMT-Breakout-PCBs 20 pin SOIC+TSSOP current preview" width="560"></p>
+
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_smt_breakout_pcbs_20_pin_soic_tssop_current)** · [Original project files](https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs/blob/master/20-pin%20SOIC%2BTSSOP.brd)
+**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/adafruit/adafruit_smt_breakout_pcbs/20_pin_soic_tssop/current/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_smt_breakout_pcbs_20_pin_soic_tssop_current) · [Original project files](https://github.com/adafruit/Adafruit-SMT-Breakout-PCBs/blob/master/20-pin%20SOIC%2BTSSOP.brd)
 
 </div>
 
@@ -30,7 +32,7 @@
 
 ## About this page
 
-This is the compact catalogue view. This index entry was built directly from its working metadata. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_smt_breakout_pcbs_20_pin_soic_tssop_current).
+This is the compact catalogue view. This index entry was built directly from its working metadata. The [board explorer page](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/adafruit/adafruit_smt_breakout_pcbs/20_pin_soic_tssop/current/board_explorer.html) currently shows the project preview and source links; interactive board geometry will appear after the source project has been processed. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_smt_breakout_pcbs_20_pin_soic_tssop_current).
 
 ---
 

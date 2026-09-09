@@ -5,11 +5,11 @@
 
 > LED XL-1010RGBC-2812B 1010 is an OOMP electronic led definition. It uses the 1010 package or form factor. Its nominal drawing size is 1.0 × 1.0 mm. The definition includes 4 documented pins.
 
-<p align="center"><img src="preview.svg" alt="LED XL-1010RGBC-2812B 1010 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="LED XL-1010RGBC-2812B 1010 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc)
 
 </div>
 

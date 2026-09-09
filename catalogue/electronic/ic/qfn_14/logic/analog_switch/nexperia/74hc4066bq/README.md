@@ -5,11 +5,11 @@
 
 > IC Logic Analog Switch Nexperia QFN_14 is an OOMP electronic ic definition. It uses the qfn 14 package or form factor. Its nominal drawing size is 3.0 × 3.0 mm. The definition includes 14 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Logic Analog Switch Nexperia QFN_14 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Logic Analog Switch Nexperia QFN_14 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_qfn_14_logic_analog_switch_nexperia_74hc4066bq)
 
 </div>
 

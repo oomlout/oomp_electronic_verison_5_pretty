@@ -5,11 +5,11 @@
 
 > Connector JST Ph S10B-PH-K-S is an OOMP electronic connector definition. It uses the jst ph package or form factor. Its nominal drawing size is 2.54 × 25.4 mm. The definition includes 10 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector JST Ph S10B-PH-K-S preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector JST Ph S10B-PH-K-S preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_ph_2_mm_pitch_through_hole_right_angle_10_pin_jst_s10b_ph_k_s)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_ph_2_mm_pitch_through_hole_right_angle_10_pin_jst_s10b_ph_k_s)
 
 </div>
 

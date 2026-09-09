@@ -5,11 +5,11 @@
 
 > Connector USB-C TYPE-C 16PIN 2MD(073) is an OOMP electronic connector definition. It uses the usb c package or form factor. Its nominal drawing size is 8.94 × 7.35 mm. The definition includes 17 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector USB-C TYPE-C 16PIN 2MD(073) preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector USB-C TYPE-C 16PIN 2MD(073) preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_usb_c_surface_mount_16_pin_shou_han_type_c_16pin_2md_073)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_usb_c_surface_mount_16_pin_shou_han_type_c_16pin_2md_073)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > Connector JST 1.25 mm pitch surface-mount 6 pin Locking is an OOMP electronic connector definition. It uses the jst package or form factor. Its nominal drawing size is 9.5 × 4.5 mm. The definition includes 6 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector JST 1.25 mm pitch surface-mount 6 pin Locking preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector JST 1.25 mm pitch surface-mount 6 pin Locking preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_1_25_mm_pitch_surface_mount_6_pin_locking_jst_smd_1_25_mm_6_locking)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_1_25_mm_pitch_surface_mount_6_pin_locking_jst_smd_1_25_mm_6_locking)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > LED White 5_MM is an OOMP electronic led definition. It uses the 5 mm package or form factor. Its nominal drawing size is 5.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="LED White 5_MM preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="LED White 5_MM preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_5_mm_white)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_5_mm_white)
 
 </div>
 

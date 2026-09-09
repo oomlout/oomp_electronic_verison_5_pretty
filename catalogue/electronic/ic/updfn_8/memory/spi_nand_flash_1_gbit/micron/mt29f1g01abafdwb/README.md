@@ -5,11 +5,11 @@
 
 > IC MT29F1G01ABAFDWB UPDFN 8 is an OOMP electronic ic definition. It uses the updfn 8 package or form factor. Its nominal drawing size is 6.0 × 5.0 mm. The definition includes 8 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC MT29F1G01ABAFDWB UPDFN 8 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC MT29F1G01ABAFDWB UPDFN 8 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_updfn_8_memory_spi_nand_flash_1_gbit_micron_mt29f1g01abafdwb)
 
 </div>
 

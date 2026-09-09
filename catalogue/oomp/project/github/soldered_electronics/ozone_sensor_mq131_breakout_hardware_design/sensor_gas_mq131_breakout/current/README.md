@@ -5,11 +5,11 @@
 
 > Project soldered_electronics/Ozone-sensor-MQ131-breakout-hardware-design MQ131 Breakout current is a KiCad project containing 49 extracted component records. The catalogue matcher linked 12 physical placements to OOMP parts.
 
-<p align="center"><img src="preview.svg" alt="Project soldered_electronics/Ozone-sensor-MQ131-breakout-hardware-design preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Project soldered_electronics/Ozone-sensor-MQ131-breakout-hardware-design preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_ozone_sensor_mq131_breakout_hardware_design_sensor_gas_mq131_breakout_current)** · [Original project files](https://github.com/SolderedElectronics/Ozone-sensor-MQ131-breakout-hardware-design)
+**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/soldered_electronics/ozone_sensor_mq131_breakout_hardware_design/sensor_gas_mq131_breakout/current/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_ozone_sensor_mq131_breakout_hardware_design_sensor_gas_mq131_breakout_current) · [Original project files](https://github.com/SolderedElectronics/Ozone-sensor-MQ131-breakout-hardware-design)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## About this page
 
-This is the compact catalogue view. A detailed source README is available. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_ozone_sensor_mq131_breakout_hardware_design_sensor_gas_mq131_breakout_current).
+This is the compact catalogue view. A detailed source README is available. The [interactive board explorer](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/soldered_electronics/ozone_sensor_mq131_breakout_hardware_design/sensor_gas_mq131_breakout/current/board_explorer.html) is included as a self-contained HTML page. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_soldered_electronics_ozone_sensor_mq131_breakout_hardware_design_sensor_gas_mq131_breakout_current).
 
 ---
 

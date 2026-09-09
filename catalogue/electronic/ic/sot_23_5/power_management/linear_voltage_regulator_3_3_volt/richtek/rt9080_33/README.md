@@ -5,11 +5,11 @@
 
 > IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5 is an OOMP electronic ic definition. It uses the sot 23 5 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm.
 
-<p align="center"><img src="preview.svg" alt="IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Power Management Linear Voltage Regulator 3 3 Volt Richtek SOT_23_5 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_5_power_management_linear_voltage_regulator_3_3_volt_richtek_rt9080_33)
 
 </div>
 

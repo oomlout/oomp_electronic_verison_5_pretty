@@ -5,11 +5,11 @@
 
 > Connector JST Ph S2B-PH-SM4-TB is an OOMP electronic connector definition. It uses the jst ph package or form factor. Its nominal drawing size is 2.54 × 5.08 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector JST Ph S2B-PH-SM4-TB preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector JST Ph S2B-PH-SM4-TB preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_ph_2_mm_pitch_surface_mount_right_angle_2_pin_jst_s2b_ph_sm4_tb)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_ph_2_mm_pitch_surface_mount_right_angle_2_pin_jst_s2b_ph_sm4_tb)
 
 </div>
 

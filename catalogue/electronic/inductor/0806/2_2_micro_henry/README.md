@@ -5,11 +5,11 @@
 
 > Inductor 2 2 Micro Henry 0806 is an OOMP electronic inductor definition. It uses the 0806 package or form factor. Its nominal drawing size is 10.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Inductor 2 2 Micro Henry 0806 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Inductor 2 2 Micro Henry 0806 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_inductor_0806_2_2_micro_henry)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_inductor_0806_2_2_micro_henry)
 
 </div>
 

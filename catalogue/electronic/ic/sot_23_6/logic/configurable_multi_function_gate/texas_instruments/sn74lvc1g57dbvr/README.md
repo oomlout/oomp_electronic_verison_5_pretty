@@ -5,11 +5,11 @@
 
 > IC SN74LVC1G57DBVR SOT 23 6 is an OOMP electronic ic definition. It uses the sot 23 6 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 6 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC SN74LVC1G57DBVR SOT 23 6 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC SN74LVC1G57DBVR SOT 23 6 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_6_logic_configurable_multi_function_gate_texas_instruments_sn74lvc1g57dbvr)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_6_logic_configurable_multi_function_gate_texas_instruments_sn74lvc1g57dbvr)
 
 </div>
 

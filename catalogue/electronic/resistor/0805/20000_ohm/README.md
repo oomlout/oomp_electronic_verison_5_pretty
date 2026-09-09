@@ -5,11 +5,11 @@
 
 > Resistor 20000 Ohm 0805 is an OOMP electronic resistor definition. It uses the 0805 package or form factor. Its nominal drawing size is 2.0 × 1.25 mm.
 
-<p align="center"><img src="preview.svg" alt="Resistor 20000 Ohm 0805 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Resistor 20000 Ohm 0805 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0805_20000_ohm)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0805_20000_ohm)
 
 </div>
 

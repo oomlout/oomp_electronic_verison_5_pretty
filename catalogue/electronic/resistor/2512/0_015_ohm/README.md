@@ -5,11 +5,11 @@
 
 > Resistor 0.015 Ohm 2512 is an OOMP electronic resistor definition. It uses the 2512 package or form factor. Its nominal drawing size is 6.3 × 3.2 mm.
 
-<p align="center"><img src="preview.svg" alt="Resistor 0.015 Ohm 2512 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Resistor 0.015 Ohm 2512 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_2512_0_015_ohm)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_2512_0_015_ohm)
 
 </div>
 

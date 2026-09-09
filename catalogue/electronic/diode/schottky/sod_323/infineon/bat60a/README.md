@@ -5,11 +5,11 @@
 
 > Diode BAT60A SOD-323 is an OOMP electronic diode definition. It uses the sod 323 package or form factor. Its nominal drawing size is 2.1 × 1.25 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Diode BAT60A SOD-323 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Diode BAT60A SOD-323 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_schottky_sod_323_infineon_bat60a)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_schottky_sod_323_infineon_bat60a)
 
 </div>
 

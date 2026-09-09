@@ -5,11 +5,11 @@
 
 > IC Microcontroller STM32 St LQFP_48 is an OOMP electronic ic definition. It uses the lqfp 48 package or form factor. Its nominal drawing size is 9.7 × 9.7 mm. The definition includes 48 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Microcontroller STM32 St LQFP_48 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Microcontroller STM32 St LQFP_48 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_lqfp_48_microcontroller_stm32_st_stm32f103c8tx)
 
 </div>
 

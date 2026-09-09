@@ -5,11 +5,11 @@
 
 > Switch IT-1109S TACTILE is an OOMP electronic switch definition. It uses the tactile package or form factor. Its nominal drawing size is 6.0 × 6.0 mm. The definition includes 4 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Switch IT-1109S TACTILE preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Switch IT-1109S TACTILE preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_tactile_surface_mount_switronic_it_1109s)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_tactile_surface_mount_switronic_it_1109s)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > Connector JST Xh B6B-XH-A is an OOMP electronic connector definition. It uses the jst xh package or form factor. Its nominal drawing size is 17.4 × 5.75 mm. The definition includes 6 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector JST Xh B6B-XH-A preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector JST Xh B6B-XH-A preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_xh_2_5_mm_pitch_through_hole_6_pin_jst_b6b_xh_a)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_xh_2_5_mm_pitch_through_hole_6_pin_jst_b6b_xh_a)
 
 </div>
 

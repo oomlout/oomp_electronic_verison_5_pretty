@@ -5,11 +5,11 @@
 
 > Mounting Hole 6 mm Round Plated is an OOMP mechanical mounting hole definition. It uses the 6 mm package or form factor. Its nominal drawing size is 6.0 × 6.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Mounting Hole 6 mm Round Plated preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Mounting Hole 6 mm Round Plated preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/mechanical_mounting_hole_6_mm_round_plated)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/mechanical_mounting_hole_6_mm_round_plated)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > Connector Header 1.27 mm pitch surface-mount 10 pin Socket is an OOMP electronic connector definition. It uses the header package or form factor. Its nominal drawing size is 7.0 × 5.5 mm. The definition includes 10 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector Header 1.27 mm pitch surface-mount 10 pin Socket preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector Header 1.27 mm pitch surface-mount 10 pin Socket preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_1_27_mm_pitch_surface_mount_10_pin_socket_header_female_5x2_1_27_mm_smd)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_1_27_mm_pitch_surface_mount_10_pin_socket_header_female_5x2_1_27_mm_smd)
 
 </div>
 

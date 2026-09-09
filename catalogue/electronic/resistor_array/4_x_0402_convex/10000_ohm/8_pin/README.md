@@ -5,11 +5,11 @@
 
 > Resistor array 10000 Ohm 4 X 0402 Convex is an OOMP electronic resistor array definition. It uses the 4 x 0402 convex package or form factor. Its nominal drawing size is 2.0 × 1.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Resistor array 10000 Ohm 4 X 0402 Convex preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Resistor array 10000 Ohm 4 X 0402 Convex preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_array_4_x_0402_convex_10000_ohm_8_pin)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_array_4_x_0402_convex_10000_ohm_8_pin)
 
 </div>
 

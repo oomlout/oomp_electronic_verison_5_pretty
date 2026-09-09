@@ -5,11 +5,11 @@
 
 > Fuse Resettable 6 Volt 2 Amp 4 Amp 1210 is an OOMP electronic fuse definition. It uses the 1210 package or form factor. Its nominal drawing size is 3.2 × 2.5 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Fuse Resettable 6 Volt 2 Amp 4 Amp 1210 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Fuse Resettable 6 Volt 2 Amp 4 Amp 1210 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_fuse_1210_resettable_6_volt_2_amp_4_amp)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_fuse_1210_resettable_6_volt_2_amp_4_amp)
 
 </div>
 

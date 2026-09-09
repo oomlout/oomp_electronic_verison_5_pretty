@@ -5,11 +5,11 @@
 
 > LED Green 10_MM is an OOMP electronic led definition. It uses the 10 mm package or form factor. Its nominal drawing size is 10.0 × 10.0 mm.
 
-<p align="center"><img src="preview.svg" alt="LED Green 10_MM preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="LED Green 10_MM preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_10_mm_green)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_10_mm_green)
 
 </div>
 

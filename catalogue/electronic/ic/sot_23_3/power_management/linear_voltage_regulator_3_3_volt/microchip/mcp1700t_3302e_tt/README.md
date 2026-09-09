@@ -5,11 +5,11 @@
 
 > IC Power Management Linear Voltage Regulator 3 3 Volt Microchip SOT_23_3 is an OOMP electronic ic definition. It uses the sot 23 3 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 3 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Power Management Linear Voltage Regulator 3 3 Volt Microchip SOT_23_3 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Power Management Linear Voltage Regulator 3 3 Volt Microchip SOT_23_3 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_3_power_management_linear_voltage_regulator_3_3_volt_microchip_mcp1700t_3302e_tt)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_3_power_management_linear_voltage_regulator_3_3_volt_microchip_mcp1700t_3302e_tt)
 
 </div>
 

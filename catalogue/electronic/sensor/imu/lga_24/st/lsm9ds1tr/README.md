@@ -5,11 +5,11 @@
 
 > Sensor Lga 24 St LSM9DS1TR IMU is an OOMP electronic sensor definition. It uses the imu package or form factor. Its nominal drawing size is 3.5 × 3.0 mm. The definition includes 24 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Sensor Lga 24 St LSM9DS1TR IMU preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Sensor Lga 24 St LSM9DS1TR IMU preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_imu_lga_24_st_lsm9ds1tr)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_imu_lga_24_st_lsm9ds1tr)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > Crystal 32.768 kHz 12.5 pF 3215 2-pin is an OOMP electronic crystal definition. It uses the 3215 package or form factor. Its nominal drawing size is 3.2 × 1.5 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Crystal 32.768 kHz 12.5 pF 3215 2-pin preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Crystal 32.768 kHz 12.5 pF 3215 2-pin preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_crystal_3215_surface_mount_2_pin_32_768_khz_12_5_pf)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_crystal_3215_surface_mount_2_pin_32_768_khz_12_5_pf)
 
 </div>
 

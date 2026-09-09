@@ -5,11 +5,11 @@
 
 > Connector JST Sh SM10B-SRSS-TB is an OOMP electronic connector definition. It uses the jst sh package or form factor. Its nominal drawing size is 12.0 × 4.25 mm. The definition includes 10 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector JST Sh SM10B-SRSS-TB preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector JST Sh SM10B-SRSS-TB preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_sh_1_mm_pitch_surface_mount_right_angle_10_pin_jst_sm10b_srss_tb)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_sh_1_mm_pitch_surface_mount_right_angle_10_pin_jst_sm10b_srss_tb)
 
 </div>
 

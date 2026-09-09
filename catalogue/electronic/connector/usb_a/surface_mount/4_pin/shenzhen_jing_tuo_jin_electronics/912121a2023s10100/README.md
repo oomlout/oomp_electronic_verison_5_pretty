@@ -5,11 +5,11 @@
 
 > Connector USB-A 912-121A2023S10100 is an OOMP electronic connector definition. It uses the usb a package or form factor. Its nominal drawing size is 14.3 × 10.6 mm. The definition includes 6 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector USB-A 912-121A2023S10100 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector USB-A 912-121A2023S10100 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_usb_a_surface_mount_4_pin_shenzhen_jing_tuo_jin_electronics_912121a2023s10100)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_usb_a_surface_mount_4_pin_shenzhen_jing_tuo_jin_electronics_912121a2023s10100)
 
 </div>
 

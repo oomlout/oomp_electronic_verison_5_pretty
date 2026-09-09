@@ -5,11 +5,11 @@
 
 > Connector Header 2.54 mm pitch through-hole dual row 6 pin is an OOMP electronic connector definition. It uses the header package or form factor. Its nominal drawing size is 5.08 × 7.62 mm. The definition includes 6 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector Header 2.54 mm pitch through-hole dual row 6 pin preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector Header 2.54 mm pitch through-hole dual row 6 pin preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_dual_row_6_pin)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_dual_row_6_pin)
 
 </div>
 

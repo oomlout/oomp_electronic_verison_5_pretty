@@ -5,11 +5,11 @@
 
 > LED Green 0201 is an OOMP electronic led definition. It uses the 0201 package or form factor. Its nominal drawing size is 0.6 × 0.3 mm.
 
-<p align="center"><img src="preview.svg" alt="LED Green 0201 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="LED Green 0201 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_0201_green)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_0201_green)
 
 </div>
 

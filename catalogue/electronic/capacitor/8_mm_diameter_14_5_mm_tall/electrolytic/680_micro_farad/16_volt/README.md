@@ -5,11 +5,11 @@
 
 > Capacitor 680 uF 16 V Electrolytic 8 mm diameter x 14.5 mm tall is an OOMP electronic capacitor definition. It uses the 8 mm diameter 14 5 mm tall package or form factor. Its nominal drawing size is 10.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Capacitor 680 uF 16 V Electrolytic 8 mm diameter x 14.5 mm tall preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Capacitor 680 uF 16 V Electrolytic 8 mm diameter x 14.5 mm tall preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_8_mm_diameter_14_5_mm_tall_electrolytic_680_micro_farad_16_volt)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_8_mm_diameter_14_5_mm_tall_electrolytic_680_micro_farad_16_volt)
 
 </div>
 

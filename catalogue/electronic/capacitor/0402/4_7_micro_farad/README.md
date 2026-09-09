@@ -5,11 +5,11 @@
 
 > Capacitor 4.7 uF 0402 is an OOMP electronic capacitor definition. It uses the 0402 package or form factor. Its nominal drawing size is 1.0 × 0.5 mm.
 
-<p align="center"><img src="preview.svg" alt="Capacitor 4.7 uF 0402 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Capacitor 4.7 uF 0402 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_0402_4_7_micro_farad)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_0402_4_7_micro_farad)
 
 </div>
 

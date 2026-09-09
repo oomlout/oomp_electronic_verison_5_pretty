@@ -5,11 +5,11 @@
 
 > Potentiometer Through Hole 10 Kilo Ohm Bourns TC33X 2 103E TRIMMER is an OOMP electronic potentiometer definition. It uses the trimmer package or form factor. Its nominal drawing size is 3.8 × 3.6 mm. The definition includes 3 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Potentiometer Through Hole 10 Kilo Ohm Bourns TC33X 2 103E TRIMMER preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Potentiometer Through Hole 10 Kilo Ohm Bourns TC33X 2 103E TRIMMER preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_potentiometer_trimmer_through_hole_10_kilo_ohm_bourns_tc33x_2_103e)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_potentiometer_trimmer_through_hole_10_kilo_ohm_bourns_tc33x_2_103e)
 
 </div>
 

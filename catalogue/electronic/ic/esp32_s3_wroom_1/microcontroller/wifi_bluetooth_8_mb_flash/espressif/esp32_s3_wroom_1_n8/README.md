@@ -5,11 +5,11 @@
 
 > WiFi/BLE Module ESP32-S3-WROOM-1-N8 8MB is an OOMP electronic ic definition. It uses the esp32 s3 wroom 1 package or form factor. Its nominal drawing size is 18.0 × 25.5 mm.
 
-<p align="center"><img src="preview.svg" alt="WiFi/BLE Module ESP32-S3-WROOM-1-N8 8MB preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="WiFi/BLE Module ESP32-S3-WROOM-1-N8 8MB preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_esp32_s3_wroom_1_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_s3_wroom_1_n8)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_esp32_s3_wroom_1_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_s3_wroom_1_n8)
 
 </div>
 

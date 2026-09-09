@@ -5,11 +5,11 @@
 
 > Diode DF5A5.6LFU SOT-353 is an OOMP electronic diode definition. It uses the sot 353 package or form factor. Its nominal drawing size is 2.0 × 1.25 mm. The definition includes 5 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Diode DF5A5.6LFU SOT-353 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Diode DF5A5.6LFU SOT-353 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_tvs_sot_353_toshiba_df5a5_6lfu)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_tvs_sot_353_toshiba_df5a5_6lfu)
 
 </div>
 

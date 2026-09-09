@@ -5,11 +5,11 @@
 
 > Switch Through Hole Gt TC026X Hxxx Lx TACTILE is an OOMP electronic switch definition. It uses the tactile package or form factor. Its nominal drawing size is 6.0 × 6.0 mm. The definition includes 4 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Switch Through Hole Gt TC026X Hxxx Lx TACTILE preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Switch Through Hole Gt TC026X Hxxx Lx TACTILE preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_tactile_through_hole_gt_tc026x_hxxx_lx)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_tactile_through_hole_gt_tc026x_hxxx_lx)
 
 </div>
 

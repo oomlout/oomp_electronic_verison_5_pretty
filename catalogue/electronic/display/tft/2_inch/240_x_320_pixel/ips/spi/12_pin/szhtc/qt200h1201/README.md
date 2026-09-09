@@ -5,11 +5,11 @@
 
 > Display QT200H1201 TFT is an OOMP electronic display definition. It uses the tft package or form factor. Its nominal drawing size is 34.6 × 47.8 mm. The definition includes 12 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Display QT200H1201 TFT preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Display QT200H1201 TFT preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_display_tft_2_inch_240_x_320_pixel_ips_spi_12_pin_szhtc_qt200h1201)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_display_tft_2_inch_240_x_320_pixel_ips_spi_12_pin_szhtc_qt200h1201)
 
 </div>
 

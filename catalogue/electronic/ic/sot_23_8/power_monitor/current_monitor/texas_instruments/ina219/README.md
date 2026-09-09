@@ -5,11 +5,11 @@
 
 > IC Power Monitor Current Monitor Texas Instruments SOT_23_8 is an OOMP electronic ic definition. It uses the sot 23 8 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm. The definition includes 8 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Power Monitor Current Monitor Texas Instruments SOT_23_8 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Power Monitor Current Monitor Texas Instruments SOT_23_8 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_8_power_monitor_current_monitor_texas_instruments_ina219)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_8_power_monitor_current_monitor_texas_instruments_ina219)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > IC Sensor Hall Effect Silicon Labs SOT_23 is an OOMP electronic ic definition. It uses the sot 23 package or form factor. Its nominal drawing size is 2.9 × 2.6 mm.
 
-<p align="center"><img src="preview.svg" alt="IC Sensor Hall Effect Silicon Labs SOT_23 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Sensor Hall Effect Silicon Labs SOT_23 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_sensor_hall_effect_silicon_labs_si7201_b_06_iv)
 
 </div>
 

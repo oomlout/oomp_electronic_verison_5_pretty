@@ -5,11 +5,11 @@
 
 > Capacitor 10 uF 0805 is an OOMP electronic capacitor definition. It uses the 0805 package or form factor. Its nominal drawing size is 2.0 × 1.25 mm.
 
-<p align="center"><img src="preview.svg" alt="Capacitor 10 uF 0805 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Capacitor 10 uF 0805 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_0805_10_micro_farad)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_0805_10_micro_farad)
 
 </div>
 

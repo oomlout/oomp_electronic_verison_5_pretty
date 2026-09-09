@@ -5,11 +5,11 @@
 
 > Transistor Mosfet N Channel Enhancement Mode SOT 23 is an OOMP electronic transistor definition. It uses the sot 23 package or form factor. Its nominal drawing size is 2.9 × 2.6 mm.
 
-<p align="center"><img src="preview.svg" alt="Transistor Mosfet N Channel Enhancement Mode SOT 23 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Transistor Mosfet N Channel Enhancement Mode SOT 23 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_23_mosfet_n_channel_enhancement_mode)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_23_mosfet_n_channel_enhancement_mode)
 
 </div>
 

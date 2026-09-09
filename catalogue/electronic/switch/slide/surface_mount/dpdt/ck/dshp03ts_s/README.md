@@ -5,11 +5,11 @@
 
 > Switch Surface Mount Dpdt Ck DSHP03TS S SLIDE is an OOMP electronic switch definition. It uses the slide package or form factor. Its nominal drawing size is 10.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Switch Surface Mount Dpdt Ck DSHP03TS S SLIDE preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Switch Surface Mount Dpdt Ck DSHP03TS S SLIDE preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_slide_surface_mount_dpdt_ck_dshp03ts_s)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_slide_surface_mount_dpdt_ck_dshp03ts_s)
 
 </div>
 

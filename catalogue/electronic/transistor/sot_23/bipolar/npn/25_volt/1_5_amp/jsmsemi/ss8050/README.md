@@ -5,11 +5,11 @@
 
 > Transistor SS8050 SOT 23 is an OOMP electronic transistor definition. It uses the sot 23 package or form factor. Its nominal drawing size is 2.9 × 2.4 mm. The definition includes 3 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Transistor SS8050 SOT 23 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Transistor SS8050 SOT 23 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_23_bipolar_npn_25_volt_1_5_amp_jsmsemi_ss8050)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_23_bipolar_npn_25_volt_1_5_amp_jsmsemi_ss8050)
 
 </div>
 

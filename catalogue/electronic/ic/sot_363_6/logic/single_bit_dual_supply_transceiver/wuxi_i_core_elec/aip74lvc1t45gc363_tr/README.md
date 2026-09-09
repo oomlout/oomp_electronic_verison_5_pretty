@@ -5,11 +5,11 @@
 
 > IC AiP74LVC1T45GC363.TR SOT 363 6 is an OOMP electronic ic definition. It uses the sot 363 6 package or form factor. Its nominal drawing size is 2.0 × 1.25 mm. The definition includes 6 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC AiP74LVC1T45GC363.TR SOT 363 6 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC AiP74LVC1T45GC363.TR SOT 363 6 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_363_6_logic_single_bit_dual_supply_transceiver_wuxi_i_core_elec_aip74lvc1t45gc363_tr)
 
 </div>
 

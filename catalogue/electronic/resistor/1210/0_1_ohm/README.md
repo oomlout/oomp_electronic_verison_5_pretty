@@ -5,11 +5,11 @@
 
 > Resistor 0.1 Ohm 1210 is an OOMP electronic resistor definition. It uses the 1210 package or form factor. Its nominal drawing size is 3.2 × 2.5 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Resistor 0.1 Ohm 1210 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Resistor 0.1 Ohm 1210 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_1210_0_1_ohm)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_1210_0_1_ohm)
 
 </div>
 

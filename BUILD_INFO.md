@@ -1,6 +1,6 @@
 # Build information
 
-- **Generated At Utc:** `2026-09-09T14:15:15+00:00`
+- **Generated At Utc:** `2026-09-09T19:31:06+00:00`
 - **Source Root:** `C:\gh\oomp_electronic_version_5`
 - **Source Repository:** `https://github.com/oomlout/oomp_electronic_version_5`
 - **Source Branch:** `main`
@@ -11,5 +11,8 @@
 - **Projects:** 915
 - **Navigation Nodes:** 4,633
 - **Source Readmes:** 1,347
-- **Local Previews:** 1,357
-- **Remote Previews:** 0
+- **Png Previews:** 2,159
+- **Source Artwork Previews:** 1,357
+- **Metadata Card Previews:** 802
+- **Interactive Board Explorers:** 113
+- **Project Landing Pages:** 802

@@ -5,11 +5,11 @@
 
 > MCU ATmega328P-AU 8-bit AVR TQFP-32 is an OOMP electronic ic definition. It uses the tqfp 32 7 mm x 7 mm package or form factor. Its nominal drawing size is 9.0 × 9.0 mm. The definition includes 32 documented pins.
 
-<p align="center"><img src="preview.svg" alt="MCU ATmega328P-AU 8-bit AVR TQFP-32 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="MCU ATmega328P-AU 8-bit AVR TQFP-32 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tqfp_32_7_mm_x_7_mm_microcontroller_8_bit_avr_microchip_atmega328p_au)
 
 </div>
 

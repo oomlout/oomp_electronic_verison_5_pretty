@@ -5,11 +5,11 @@
 
 > IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E is an OOMP electronic ic definition. It uses the esp32 wroom 32e package or form factor. Its nominal drawing size is 18.0 × 25.5 mm. The definition includes 39 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC ESP32-WROOM-32E-N8 ESP32 WROOM 32E preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_esp32_wroom_32e_microcontroller_wifi_bluetooth_8_mb_flash_espressif_esp32_wroom_32e_n8)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > Sensor Lga 10 Bosch BMP388 PRESSURE TEMPERATURE is an OOMP electronic sensor definition. It uses the pressure temperature package or form factor. Its nominal drawing size is 2.0 × 2.0 mm. The definition includes 10 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Sensor Lga 10 Bosch BMP388 PRESSURE TEMPERATURE preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Sensor Lga 10 Bosch BMP388 PRESSURE TEMPERATURE preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_pressure_temperature_lga_10_bosch_bmp388)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_pressure_temperature_lga_10_bosch_bmp388)
 
 </div>
 

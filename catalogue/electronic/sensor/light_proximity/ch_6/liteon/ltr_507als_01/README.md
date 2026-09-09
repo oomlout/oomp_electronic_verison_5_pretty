@@ -5,11 +5,11 @@
 
 > Sensor Ch 6 Liteon Ltr 507ALS 01 LIGHT PROXIMITY is an OOMP electronic sensor definition. It uses the light proximity package or form factor. Its nominal drawing size is 2.65 × 2.0 mm. The definition includes 8 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Sensor Ch 6 Liteon Ltr 507ALS 01 LIGHT PROXIMITY preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Sensor Ch 6 Liteon Ltr 507ALS 01 LIGHT PROXIMITY preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_light_proximity_ch_6_liteon_ltr_507als_01)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_light_proximity_ch_6_liteon_ltr_507als_01)
 
 </div>
 

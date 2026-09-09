@@ -5,11 +5,11 @@
 
 > Regulator AMS1117-5.0 5V SOT-223 is an OOMP electronic ic definition. It uses the sot 223 3 package or form factor. Its nominal drawing size is 6.5 × 7.0 mm. The definition includes 3 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Regulator AMS1117-5.0 5V SOT-223 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Regulator AMS1117-5.0 5V SOT-223 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_223_3_power_management_linear_voltage_regulator_5_volt_advanced_monolithic_systems_ams1117_5)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > Connector JST Ph S13B-PH-SM4-TB is an OOMP electronic connector definition. It uses the jst ph package or form factor. Its nominal drawing size is 2.54 × 33.02 mm. The definition includes 13 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector JST Ph S13B-PH-SM4-TB preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector JST Ph S13B-PH-SM4-TB preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_ph_2_mm_pitch_surface_mount_right_angle_13_pin_jst_s13b_ph_sm4_tb)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_jst_ph_2_mm_pitch_surface_mount_right_angle_13_pin_jst_s13b_ph_sm4_tb)
 
 </div>
 

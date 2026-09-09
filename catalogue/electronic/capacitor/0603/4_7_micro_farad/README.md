@@ -5,11 +5,11 @@
 
 > Capacitor 4.7 uF 0603 is an OOMP electronic capacitor definition. It uses the 0603 package or form factor. Its nominal drawing size is 1.6 × 0.8 mm.
 
-<p align="center"><img src="preview.svg" alt="Capacitor 4.7 uF 0603 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Capacitor 4.7 uF 0603 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_0603_4_7_micro_farad)
 
 </div>
 

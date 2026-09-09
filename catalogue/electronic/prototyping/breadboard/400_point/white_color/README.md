@@ -5,11 +5,11 @@
 
 > Prototyping 400 Point White Color BREADBOARD is an OOMP electronic prototyping definition. It uses the breadboard package or form factor. Its nominal drawing size is 82.0 × 55.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Prototyping 400 Point White Color BREADBOARD preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Prototyping 400 Point White Color BREADBOARD preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_prototyping_breadboard_400_point_white_color)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_prototyping_breadboard_400_point_white_color)
 
 </div>
 

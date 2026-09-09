@@ -5,11 +5,11 @@
 
 > Mounting Hole 2 mm x 4 mm Slot Plated is an OOMP mechanical mounting hole definition. It uses the 2 mm x 4 mm package or form factor. Its nominal drawing size is 2.0 × 4.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Mounting Hole 2 mm x 4 mm Slot Plated preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Mounting Hole 2 mm x 4 mm Slot Plated preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/mechanical_mounting_hole_2_mm_x_4_mm_slot_plated)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/mechanical_mounting_hole_2_mm_x_4_mm_slot_plated)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > A concise OOMP catalogue definition organised under Electronic › Resistor › Quarter Watt Through Hole › 1600 Ohm.
 
-<p align="center"><img src="preview.svg" alt="Resistor 1600 Ohm QUARTER_WATT_THROUGH_HOLE preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Resistor 1600 Ohm QUARTER_WATT_THROUGH_HOLE preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1600_ohm)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1600_ohm)
 
 </div>
 

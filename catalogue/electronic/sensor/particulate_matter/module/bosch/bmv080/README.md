@@ -5,11 +5,11 @@
 
 > Sensor Module Bosch BMV080 PARTICULATE MATTER is an OOMP electronic sensor definition. It uses the particulate matter package or form factor. Its nominal drawing size is 20.0 × 5.5 mm. The definition includes 13 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Sensor Module Bosch BMV080 PARTICULATE MATTER preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Sensor Module Bosch BMV080 PARTICULATE MATTER preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_particulate_matter_module_bosch_bmv080)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_particulate_matter_module_bosch_bmv080)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > LED SK6812MINI-E 3535 is an OOMP electronic led definition. It uses the 3535 package or form factor. Its nominal drawing size is 3.5 × 3.5 mm. The definition includes 4 documented pins.
 
-<p align="center"><img src="preview.svg" alt="LED SK6812MINI-E 3535 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="LED SK6812MINI-E 3535 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_3535_rgb_sk6812_opsco_optoelectronics_sk6812mini_e)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_3535_rgb_sk6812_opsco_optoelectronics_sk6812mini_e)
 
 </div>
 

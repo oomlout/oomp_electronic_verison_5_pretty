@@ -5,11 +5,11 @@
 
 > Connector Header KH-2.54FH-1X3P-H8.5 is an OOMP electronic connector definition. It uses the header package or form factor. Its nominal drawing size is 7.62 × 2.48 mm. The definition includes 3 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Connector Header KH-2.54FH-1X3P-H8.5 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector Header KH-2.54FH-1X3P-H8.5 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_3_pin_socket_kinghelm_kh_2_54fh_1x3p_h8_5)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_header_2_54_mm_pitch_through_hole_3_pin_socket_kinghelm_kh_2_54fh_1x3p_h8_5)
 
 </div>
 

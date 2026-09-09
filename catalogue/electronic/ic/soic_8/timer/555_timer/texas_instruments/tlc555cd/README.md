@@ -5,11 +5,11 @@
 
 > IC Timer 555 Timer Texas Instruments SOIC_8 is an OOMP electronic ic definition. It uses the soic 8 package or form factor. Its nominal drawing size is 4.9 × 3.9 mm. The definition includes 8 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Timer 555 Timer Texas Instruments SOIC_8 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Timer 555 Timer Texas Instruments SOIC_8 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_timer_555_timer_texas_instruments_tlc555cd)
 
 </div>
 

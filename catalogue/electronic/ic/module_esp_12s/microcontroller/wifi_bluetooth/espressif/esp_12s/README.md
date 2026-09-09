@@ -5,11 +5,11 @@
 
 > IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S is an OOMP electronic ic definition. It uses the module esp 12s package or form factor. Its nominal drawing size is 24.0 × 16.0 mm. The definition includes 16 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Microcontroller Wifi Bluetooth Espressif MODULE_ESP_12S preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_module_esp_12s_microcontroller_wifi_bluetooth_espressif_esp_12s)
 
 </div>
 

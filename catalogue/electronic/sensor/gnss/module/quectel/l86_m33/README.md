@@ -5,11 +5,11 @@
 
 > Sensor Module Quectel L86 M33 GNSS is an OOMP electronic sensor definition. It uses the gnss package or form factor. Its nominal drawing size is 18.4 × 18.4 mm. The definition includes 18 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Sensor Module Quectel L86 M33 GNSS preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Sensor Module Quectel L86 M33 GNSS preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_gnss_module_quectel_l86_m33)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_sensor_gnss_module_quectel_l86_m33)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > Project hanqaqa/easyduino ATmega328P Arduino Nano current is a KiCad project containing 65 extracted component records. The catalogue matcher linked 30 physical placements to OOMP parts.
 
-<p align="center"><img src="preview.svg" alt="Project hanqaqa/easyduino ATmega328P Arduino Nano current preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Project hanqaqa/easyduino ATmega328P Arduino Nano current preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_hanqaqa_easyduino_atmega328p_arduino_nano_current)** · [Original project files](https://github.com/Hanqaqa/Easyduino/tree/master/Atmega328p%20Arduino%20Nano)
+**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/hanqaqa/easyduino/atmega328p_arduino_nano/current/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_hanqaqa_easyduino_atmega328p_arduino_nano_current) · [Original project files](https://github.com/Hanqaqa/Easyduino/tree/master/Atmega328p%20Arduino%20Nano)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## About this page
 
-This is the compact catalogue view. A detailed source README is available. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_hanqaqa_easyduino_atmega328p_arduino_nano_current).
+This is the compact catalogue view. A detailed source README is available. The [interactive board explorer](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/hanqaqa/easyduino/atmega328p_arduino_nano/current/board_explorer.html) is included as a self-contained HTML page. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_hanqaqa_easyduino_atmega328p_arduino_nano_current).
 
 ---
 

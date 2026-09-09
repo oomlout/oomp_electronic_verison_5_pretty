@@ -5,11 +5,11 @@
 
 > LED IN-S126ATG 1206 BOTTOM is an OOMP electronic led definition. It uses the 1206 bottom package or form factor. Its nominal drawing size is 3.2 × 1.5 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="LED IN-S126ATG 1206 BOTTOM preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="LED IN-S126ATG 1206 BOTTOM preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_1206_bottom_green)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_led_1206_bottom_green)
 
 </div>
 

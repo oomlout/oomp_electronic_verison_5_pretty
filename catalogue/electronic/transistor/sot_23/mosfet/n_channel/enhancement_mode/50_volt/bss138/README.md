@@ -5,11 +5,11 @@
 
 > N-channel MOSFET BSS138 SOT-23 (generic) is an OOMP electronic transistor definition. It uses the sot 23 package or form factor. Its nominal drawing size is 2.9 × 2.4 mm. The definition includes 3 documented pins.
 
-<p align="center"><img src="preview.svg" alt="N-channel MOSFET BSS138 SOT-23 (generic) preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="N-channel MOSFET BSS138 SOT-23 (generic) preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_23_mosfet_n_channel_enhancement_mode_50_volt_bss138)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_23_mosfet_n_channel_enhancement_mode_50_volt_bss138)
 
 </div>
 

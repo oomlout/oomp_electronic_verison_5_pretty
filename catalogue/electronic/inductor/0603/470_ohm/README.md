@@ -5,11 +5,11 @@
 
 > Inductor 470 Ohm 0603 is an OOMP electronic inductor definition. It uses the 0603 package or form factor. Its nominal drawing size is 1.6 × 0.8 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Inductor 470 Ohm 0603 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Inductor 470 Ohm 0603 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_inductor_0603_470_ohm)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_inductor_0603_470_ohm)
 
 </div>
 

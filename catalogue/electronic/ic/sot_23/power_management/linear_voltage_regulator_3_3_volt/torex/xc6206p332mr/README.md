@@ -5,11 +5,11 @@
 
 > Regulator XC6206P332MR 3.3V SOT-23 is an OOMP electronic ic definition. It uses the sot 23 package or form factor. Its nominal drawing size is 2.92 × 2.8 mm. The definition includes 3 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Regulator XC6206P332MR 3.3V SOT-23 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Regulator XC6206P332MR 3.3V SOT-23 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sot_23_power_management_linear_voltage_regulator_3_3_volt_torex_xc6206p332mr)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > Ferrite Bead MMZ2012R150AT000 0805 is an OOMP electronic ferrite bead definition. It uses the 0805 package or form factor. Its nominal drawing size is 2.0 × 1.25 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Ferrite Bead MMZ2012R150AT000 0805 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Ferrite Bead MMZ2012R150AT000 0805 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ferrite_bead_0805_15_ohm_1_5_amp_tdk_mmz2012r150at000)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ferrite_bead_0805_15_ohm_1_5_amp_tdk_mmz2012r150at000)
 
 </div>
 

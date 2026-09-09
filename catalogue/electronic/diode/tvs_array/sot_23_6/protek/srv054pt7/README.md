@@ -5,11 +5,11 @@
 
 > Diode SRV05-4-P-T7 SOT-23-6 is an OOMP electronic diode definition. It uses the sot 23 6 package or form factor. Its nominal drawing size is 2.9 × 1.6 mm.
 
-<p align="center"><img src="preview.svg" alt="Diode SRV05-4-P-T7 SOT-23-6 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Diode SRV05-4-P-T7 SOT-23-6 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_tvs_array_sot_23_6_protek_srv054pt7)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_tvs_array_sot_23_6_protek_srv054pt7)
 
 </div>
 

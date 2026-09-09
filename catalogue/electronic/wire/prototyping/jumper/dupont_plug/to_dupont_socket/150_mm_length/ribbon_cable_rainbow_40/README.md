@@ -5,11 +5,11 @@
 
 > Wire Jumper Dupont Plug To Dupont Socket 150 Mm Length Ribbon Cable Rainbow 40 PROTOTYPING is an OOMP electronic wire definition. It uses the prototyping package or form factor. Its nominal drawing size is 150 × 2.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Wire Jumper Dupont Plug To Dupont Socket 150 Mm Length Ribbon Cable Rainbow preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Wire Jumper Dupont Plug To Dupont Socket 150 Mm Length Ribbon Cable Rainbow preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_wire_prototyping_jumper_dupont_plug_to_dupont_socket_150_mm_length_ribbon_cable_rainbow_40)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_wire_prototyping_jumper_dupont_plug_to_dupont_socket_150_mm_length_ribbon_cable_rainbow_40)
 
 </div>
 

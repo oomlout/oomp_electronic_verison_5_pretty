@@ -5,11 +5,11 @@
 
 > Mounting Hole 1.6 mm Round Unplated is an OOMP mechanical mounting hole definition. It uses the 1 6 mm package or form factor. Its nominal drawing size is 1.6 × 1.6 mm.
 
-<p align="center"><img src="preview.svg" alt="Mounting Hole 1.6 mm Round Unplated preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Mounting Hole 1.6 mm Round Unplated preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/mechanical_mounting_hole_1_6_mm_round_unplated)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/mechanical_mounting_hole_1_6_mm_round_unplated)
 
 </div>
 

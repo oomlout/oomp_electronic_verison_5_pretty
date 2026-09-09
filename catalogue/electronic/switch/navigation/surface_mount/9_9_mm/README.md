@@ -5,11 +5,11 @@
 
 > Switch Surface Mount 9 9 Mm NAVIGATION is an OOMP electronic switch definition. It uses the navigation package or form factor. Its nominal drawing size is 9.9 × 9.9 mm. The definition includes 5 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Switch Surface Mount 9 9 Mm NAVIGATION preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Switch Surface Mount 9 9 Mm NAVIGATION preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_navigation_surface_mount_9_9_mm)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_switch_navigation_surface_mount_9_9_mm)
 
 </div>
 

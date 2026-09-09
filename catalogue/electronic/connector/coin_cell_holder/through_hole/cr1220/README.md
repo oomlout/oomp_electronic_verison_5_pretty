@@ -5,11 +5,11 @@
 
 > Connector Coin Cell Holder through-hole CR1220 is an OOMP electronic connector definition. It uses the coin cell holder package or form factor. Its nominal drawing size is 10.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Connector Coin Cell Holder through-hole CR1220 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector Coin Cell Holder through-hole CR1220 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_coin_cell_holder_through_hole_cr1220)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_coin_cell_holder_through_hole_cr1220)
 
 </div>
 

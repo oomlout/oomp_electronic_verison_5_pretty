@@ -5,11 +5,11 @@
 
 > Project dangerousprototypes/buspirate5_hardware 5_rev10a is a KiCad project containing 440 extracted component records. The catalogue matcher linked 212 physical placements to OOMP parts.
 
-<p align="center"><img src="preview.svg" alt="Project dangerousprototypes/buspirate5_hardware 5_rev10a preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Project dangerousprototypes/buspirate5_hardware 5_rev10a preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a)** · [Original project files](https://github.com/DangerousPrototypes/BusPirate5-hardware)
+**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/dangerousprototypes/buspirate5_hardware/5_rev10a/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a) · [Original project files](https://github.com/DangerousPrototypes/BusPirate5-hardware)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## About this page
 
-This is the compact catalogue view. A detailed source README is available. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a).
+This is the compact catalogue view. A detailed source README is available. The [interactive board explorer](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/dangerousprototypes/buspirate5_hardware/5_rev10a/board_explorer.html) is included as a self-contained HTML page. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_dangerousprototypes_buspirate5_hardware_5_rev10a).
 
 ---
 

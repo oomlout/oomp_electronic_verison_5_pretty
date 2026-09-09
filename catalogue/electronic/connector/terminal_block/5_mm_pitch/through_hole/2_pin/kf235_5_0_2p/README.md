@@ -5,11 +5,11 @@
 
 > Connector Terminal Block 5 mm pitch through-hole 2 pin KF235 5 0 2P is an OOMP electronic connector definition. It uses the terminal block package or form factor. Its nominal drawing size is 10.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Connector Terminal Block 5 mm pitch through-hole 2 pin KF235 5 0 2P preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector Terminal Block 5 mm pitch through-hole 2 pin KF235 5 0 2P preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_terminal_block_5_mm_pitch_through_hole_2_pin_kf235_5_0_2p)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_terminal_block_5_mm_pitch_through_hole_2_pin_kf235_5_0_2p)
 
 </div>
 

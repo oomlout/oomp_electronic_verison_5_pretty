@@ -5,11 +5,11 @@
 
 > IC Converter Usb To Serial Converter Wch SOP_16 is an OOMP electronic ic definition. It uses the sop 16 package or form factor. Its nominal drawing size is 10.0 × 4.0 mm. The definition includes 16 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Converter Usb To Serial Converter Wch SOP_16 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Converter Usb To Serial Converter Wch SOP_16 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch343g)
 
 </div>
 

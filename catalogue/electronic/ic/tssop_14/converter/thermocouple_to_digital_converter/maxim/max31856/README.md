@@ -5,11 +5,11 @@
 
 > IC Converter Thermocouple To Digital Converter Maxim TSSOP_14 is an OOMP electronic ic definition. It uses the tssop 14 package or form factor. Its nominal drawing size is 5.0 × 4.4 mm. The definition includes 14 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Converter Thermocouple To Digital Converter Maxim TSSOP_14 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Converter Thermocouple To Digital Converter Maxim TSSOP_14 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_14_converter_thermocouple_to_digital_converter_maxim_max31856)
 
 </div>
 

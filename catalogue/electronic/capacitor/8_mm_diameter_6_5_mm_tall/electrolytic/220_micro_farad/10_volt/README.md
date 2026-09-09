@@ -5,11 +5,11 @@
 
 > Capacitor 220 uF 10 V Electrolytic 8 mm diameter x 6.5 mm tall is an OOMP electronic capacitor definition. It uses the 8 mm diameter 6 5 mm tall package or form factor. Its nominal drawing size is 8.0 × 8.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Capacitor 220 uF 10 V Electrolytic 8 mm diameter x 6.5 mm tall preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Capacitor 220 uF 10 V Electrolytic 8 mm diameter x 6.5 mm tall preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > Connector USB-C surface-mount 12 pin Usb C 12 Pin Generic is an OOMP electronic connector definition. It uses the usb c package or form factor. Its nominal drawing size is 8.94 × 7.35 mm.
 
-<p align="center"><img src="preview.svg" alt="Connector USB-C surface-mount 12 pin Usb C 12 Pin Generic preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector USB-C surface-mount 12 pin Usb C 12 Pin Generic preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_usb_c_surface_mount_12_pin_usb_c_12_pin_generic)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_usb_c_surface_mount_12_pin_usb_c_12_pin_generic)
 
 </div>
 

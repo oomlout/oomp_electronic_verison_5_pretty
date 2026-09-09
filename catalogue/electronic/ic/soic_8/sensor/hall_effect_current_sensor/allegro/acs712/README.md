@@ -5,11 +5,11 @@
 
 > IC Sensor Hall Effect Current Sensor Allegro SOIC_8 is an OOMP electronic ic definition. It uses the soic 8 package or form factor. Its nominal drawing size is 4.9 × 3.9 mm. The definition includes 8 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC Sensor Hall Effect Current Sensor Allegro SOIC_8 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC Sensor Hall Effect Current Sensor Allegro SOIC_8 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_sensor_hall_effect_current_sensor_allegro_acs712)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_soic_8_sensor_hall_effect_current_sensor_allegro_acs712)
 
 </div>
 

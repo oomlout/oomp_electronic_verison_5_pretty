@@ -5,11 +5,11 @@
 
 > Diode 1N4148WT SOD-523F is an OOMP electronic diode definition. It uses the sod 523f package or form factor. Its nominal drawing size is 1.6 × 0.8 mm. The definition includes 2 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Diode 1N4148WT SOD-523F preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Diode 1N4148WT SOD-523F preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_switching_sod_523f_onsemi_1n4148wt)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_diode_switching_sod_523f_onsemi_1n4148wt)
 
 </div>
 

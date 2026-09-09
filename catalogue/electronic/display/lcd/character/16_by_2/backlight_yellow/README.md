@@ -5,11 +5,11 @@
 
 > Display XL-1608UYC-06 LCD is an OOMP electronic display definition. It uses the lcd package or form factor. Its nominal drawing size is 80.0 × 36.0 mm. The definition includes 16 documented pins.
 
-<p align="center"><img src="preview.svg" alt="Display XL-1608UYC-06 LCD preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Display XL-1608UYC-06 LCD preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_display_lcd_character_16_by_2_backlight_yellow)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_display_lcd_character_16_by_2_backlight_yellow)
 
 </div>
 

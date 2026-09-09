@@ -5,11 +5,11 @@
 
 > Connector Sma Edge Mount is an OOMP electronic connector definition. It uses the sma package or form factor. Its nominal drawing size is 10.0 × 5.0 mm.
 
-<p align="center"><img src="preview.svg" alt="Connector Sma Edge Mount preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Connector Sma Edge Mount preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_sma_edge_mount)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_connector_sma_edge_mount)
 
 </div>
 

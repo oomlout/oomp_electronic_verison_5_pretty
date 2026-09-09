@@ -5,11 +5,11 @@
 
 > IC 74HCT4067PW,118 TSSOP 24 is an OOMP electronic ic definition. It uses the tssop 24 package or form factor. Its nominal drawing size is 7.8 × 4.4 mm. The definition includes 24 documented pins.
 
-<p align="center"><img src="preview.svg" alt="IC 74HCT4067PW,118 TSSOP 24 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="IC 74HCT4067PW,118 TSSOP 24 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_ic_tssop_24_logic_16_channel_analog_multiplexer_nexperia_74hct4067pw118)
 
 </div>
 

@@ -5,11 +5,11 @@
 
 > Transistor Bipolar Pnp 40 Volt 600 Milliamp Onsemi MMBT4403 SOT 23 is an OOMP electronic transistor definition. It uses the sot 23 package or form factor. Its nominal drawing size is 2.9 × 2.6 mm.
 
-<p align="center"><img src="preview.svg" alt="Transistor Bipolar Pnp 40 Volt 600 Milliamp Onsemi MMBT4403 SOT 23 preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Transistor Bipolar Pnp 40 Volt 600 Milliamp Onsemi MMBT4403 SOT 23 preview" width="560"></p>
 
 <div align="center">
 
-**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_23_bipolar_pnp_40_volt_600_milliamp_onsemi_mmbt4403)**
+[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_transistor_sot_23_bipolar_pnp_40_volt_600_milliamp_onsemi_mmbt4403)
 
 </div>
 

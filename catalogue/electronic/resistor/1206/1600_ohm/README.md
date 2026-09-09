@@ -3,7 +3,7 @@
 
 # ⚡ Resistor 1600 Ohm 1206
 
-> A concise OOMP catalogue definition organised under Electronic › Resistor › 1206 › 1600 Ohm.
+> Resistor 1600 Ohm 1206 is an OOMP electronic resistor definition. It uses the 1206 package or form factor. Its nominal drawing size is 3.2 × 1.6 mm.
 
 <p align="center"><img src="preview.png" alt="Resistor 1600 Ohm 1206 preview" width="560"></p>
 
@@ -18,7 +18,8 @@
 | Detail | Value |
 | --- | --- |
 | Type | Resistor |
-| Category | Resistor |
+| Package / style | 1206 |
+| Nominal size | 3.2 × 1.6 mm |
 | OOMP ID | `electronic_resistor_1206_1600_ohm` |
 
 ## Catalogue location
@@ -28,7 +29,7 @@
 
 ## About this page
 
-This is the compact catalogue view. This index entry was built directly from its working metadata. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_1206_1600_ohm).
+This is the compact catalogue view. A detailed source README is available. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_1206_1600_ohm).
 
 ---
 

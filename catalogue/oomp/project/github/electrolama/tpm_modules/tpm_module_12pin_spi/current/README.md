@@ -9,7 +9,7 @@
 
 <div align="center">
 
-**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/electrolama/tpm_modules/tpm_module_12pin_spi/current/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_electrolama_tpm_modules_tpm_module_12pin_spi_current) · [Original project files](https://github.com/electrolama/tpm-modules/tree/main/tpm-module-12pin-spi/Revision%20A1)
+**[Open board explorer ↗](https://html-preview.github.io/?url=https://github.com/oomlout/oomp_electronic_verison_5_pretty/blob/main/catalogue/oomp/project/github/electrolama/tpm_modules/tpm_module_12pin_spi/current/board_explorer.html)** · [HTML file](board_explorer.html) · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_electrolama_tpm_modules_tpm_module_12pin_spi_current) · [Original project files](https://github.com/electrolama/tpm-modules/tree/main/tpm-module-12pin-spi/Revision%20A1)
 
 </div>
 
@@ -37,7 +37,7 @@
 
 ## About this page
 
-This is the compact catalogue view. A detailed source README is available. The [interactive board explorer](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/electrolama/tpm_modules/tpm_module_12pin_spi/current/board_explorer.html) is included as a self-contained HTML page. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_electrolama_tpm_modules_tpm_module_12pin_spi_current).
+This is the compact catalogue view. A detailed source README is available. The [interactive board explorer](https://html-preview.github.io/?url=https://github.com/oomlout/oomp_electronic_verison_5_pretty/blob/main/catalogue/oomp/project/github/electrolama/tpm_modules/tpm_module_12pin_spi/current/board_explorer.html) is included as a self-contained HTML page. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_electrolama_tpm_modules_tpm_module_12pin_spi_current).
 
 ---
 

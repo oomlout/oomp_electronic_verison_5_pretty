@@ -17,9 +17,10 @@
 
 | Collection | Inside |
 | --- | --- |
-| ⚡ **[Electronic](catalogue/electronic/README.md)** | 1,194 components |
+| ⚡ **[Electronic](catalogue/electronic/README.md)** | 1,193 components |
 | ⚙️ **[Mechanical](catalogue/mechanical/README.md)** | 50 mechanical items |
 | 🧭 **[OOMP](catalogue/oomp/README.md)** | 915 projects |
+| • **[Uncategorised](catalogue/uncategorised/README.md)** | 1 component |
 
 ## Designed for browsing
 
@@ -28,16 +29,16 @@ Start broad and follow the taxonomy until you reach the exact part or board. Eve
 - **Visual:** every part and project has a display-ready, locally stored PNG.
 - **Focused:** high-value metadata is surfaced before implementation detail.
 - **Traceable:** “Full details” always opens the canonical page in the original repository.
-- **Explorable:** every project links to a GitHub Pages HTML board explorer; processed boards retain the full interactive explorer.
+- **Explorable:** every project includes its HTML file in the repository; processed boards retain the full interactive explorer.
 - **Reproducible:** run `rebuild.bat` here, or `generate_pretty_repository.bat` in the source checkout.
 
 ## What stays in the full repository
 
 KiCad source, footprints, symbols, manufacturing files, large render sets, working YAML, and generation intermediates remain in the [complete OOMP repository](https://github.com/oomlout/oomp_electronic_version_5). This repository is its welcoming, README-first front door.
 
-## Publishing the explorers
+## Opening the explorers
 
-In the repository's **Settings → Pages**, select **GitHub Actions** as the source. The included static Pages workflow publishes the repository after each push to `main`, while `.nojekyll` keeps the self-contained HTML explorers intact. Explorer links are configured for [https://oomlout.github.io/oomp_electronic_verison_5_pretty](https://oomlout.github.io/oomp_electronic_verison_5_pretty).
+No GitHub Pages setup is required. Each project offers an **Open board explorer** link rendered from its checked-in `board_explorer.html` through Git-Forge HTML Preview, alongside a direct link to the file inside this repository.
 
 ---
 

@@ -5,12 +5,12 @@
 
 > Browse this branch of the OOMP taxonomy. Choose a group below to narrow the catalogue.
 
-**95** components
+**94** components
 
 ## Explore
 
 <details>
-<summary><strong>Browse all 95 entries</strong></summary>
+<summary><strong>Browse all 94 entries</strong></summary>
 
 - **[0 Ohm](0_ohm/README.md)**  <br><sub>1 component</sub>
 - **[10 Ohm](10_ohm/README.md)**  <br><sub>1 component</sub>
@@ -70,7 +70,6 @@
 - **[390 Ohm](390_ohm/README.md)**  <br><sub>1 component</sub>
 - **[3900 Ohm](3900_ohm/README.md)**  <br><sub>1 component</sub>
 - **[39000 Ohm](39000_ohm/README.md)**  <br><sub>1 component</sub>
-- **[390000 Ohm](390000_ohm/README.md)**  <br><sub>1 component</sub>
 - **[3900000 Ohm](3900000_ohm/README.md)**  <br><sub>1 component</sub>
 - **[47 Ohm](47_ohm/README.md)**  <br><sub>1 component</sub>
 - **[470 Ohm](470_ohm/README.md)**  <br><sub>1 component</sub>

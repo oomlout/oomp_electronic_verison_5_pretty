@@ -5,13 +5,13 @@
 
 > Browse this branch of the OOMP taxonomy. Choose a group below to narrow the catalogue.
 
-**564** components
+**563** components
 
 ## Explore
 
 - **[0201](0201/README.md)**  <br><sub>93 components</sub>
 - **[0402](0402/README.md)**  <br><sub>93 components</sub>
-- **[0603](0603/README.md)**  <br><sub>95 components</sub>
+- **[0603](0603/README.md)**  <br><sub>94 components</sub>
 - **[0805](0805/README.md)**  <br><sub>93 components</sub>
 - **[1206](1206/README.md)**  <br><sub>93 components</sub>
 - **[1210](1210/README.md)**  <br><sub>1 component</sub>

@@ -9,7 +9,7 @@
 
 <div align="center">
 
-**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/adafruit/adafruit_pi_oled_128x32_pcb/adafruit_128x32_pi_oled/current/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_pi_oled_128x32_pcb_adafruit_128x32_pi_oled_current) · [Original project files](https://github.com/adafruit/Adafruit-PiOLED-128x32-PCB/blob/master/Adafruit%20128x32%20Pi%20OLED.brd)
+**[Open board explorer ↗](https://html-preview.github.io/?url=https://github.com/oomlout/oomp_electronic_verison_5_pretty/blob/main/catalogue/oomp/project/github/adafruit/adafruit_pi_oled_128x32_pcb/adafruit_128x32_pi_oled/current/board_explorer.html)** · [HTML file](board_explorer.html) · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_pi_oled_128x32_pcb_adafruit_128x32_pi_oled_current) · [Original project files](https://github.com/adafruit/Adafruit-PiOLED-128x32-PCB/blob/master/Adafruit%20128x32%20Pi%20OLED.brd)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 ## About this page
 
-This is the compact catalogue view. This index entry was built directly from its working metadata. The [board explorer page](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/adafruit/adafruit_pi_oled_128x32_pcb/adafruit_128x32_pi_oled/current/board_explorer.html) currently shows the project preview and source links; interactive board geometry will appear after the source project has been processed. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_pi_oled_128x32_pcb_adafruit_128x32_pi_oled_current).
+This is the compact catalogue view. This index entry was built directly from its working metadata. The [board explorer page](https://html-preview.github.io/?url=https://github.com/oomlout/oomp_electronic_verison_5_pretty/blob/main/catalogue/oomp/project/github/adafruit/adafruit_pi_oled_128x32_pcb/adafruit_128x32_pi_oled/current/board_explorer.html) currently shows the project preview and source links; interactive board geometry will appear after the source project has been processed. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_pi_oled_128x32_pcb_adafruit_128x32_pi_oled_current).
 
 ---
 

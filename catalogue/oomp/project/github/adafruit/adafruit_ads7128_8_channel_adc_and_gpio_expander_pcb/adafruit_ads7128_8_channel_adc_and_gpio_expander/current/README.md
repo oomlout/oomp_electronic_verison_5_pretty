@@ -9,7 +9,7 @@
 
 <div align="center">
 
-**[Open board explorer ↗](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/adafruit/adafruit_ads7128_8_channel_adc_and_gpio_expander_pcb/adafruit_ads7128_8_channel_adc_and_gpio_expander/current/board_explorer.html)** · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_ads7128_8_channel_adc_and_gpio_expander_pcb_adafruit_ads7128_8_channel_adc_and_gpio_expander_current) · [Original project files](https://github.com/adafruit/Adafruit-ADS7128-8-Channel-ADC-and-GPIO-Expander-PCB/blob/main/Adafruit%20ADS7128%208-Channel%20ADC%20and%20GPIO%20Expander.brd)
+**[Open board explorer ↗](https://html-preview.github.io/?url=https://github.com/oomlout/oomp_electronic_verison_5_pretty/blob/main/catalogue/oomp/project/github/adafruit/adafruit_ads7128_8_channel_adc_and_gpio_expander_pcb/adafruit_ads7128_8_channel_adc_and_gpio_expander/current/board_explorer.html)** · [HTML file](board_explorer.html) · [Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_ads7128_8_channel_adc_and_gpio_expander_pcb_adafruit_ads7128_8_channel_adc_and_gpio_expander_current) · [Original project files](https://github.com/adafruit/Adafruit-ADS7128-8-Channel-ADC-and-GPIO-Expander-PCB/blob/main/Adafruit%20ADS7128%208-Channel%20ADC%20and%20GPIO%20Expander.brd)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 ## About this page
 
-This is the compact catalogue view. This index entry was built directly from its working metadata. The [board explorer page](https://oomlout.github.io/oomp_electronic_verison_5_pretty/catalogue/oomp/project/github/adafruit/adafruit_ads7128_8_channel_adc_and_gpio_expander_pcb/adafruit_ads7128_8_channel_adc_and_gpio_expander/current/board_explorer.html) currently shows the project preview and source links; interactive board geometry will appear after the source project has been processed. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_ads7128_8_channel_adc_and_gpio_expander_pcb_adafruit_ads7128_8_channel_adc_and_gpio_expander_current).
+This is the compact catalogue view. This index entry was built directly from its working metadata. The [board explorer page](https://html-preview.github.io/?url=https://github.com/oomlout/oomp_electronic_verison_5_pretty/blob/main/catalogue/oomp/project/github/adafruit/adafruit_ads7128_8_channel_adc_and_gpio_expander_pcb/adafruit_ads7128_8_channel_adc_and_gpio_expander/current/board_explorer.html) currently shows the project preview and source links; interactive board geometry will appear after the source project has been processed. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_ads7128_8_channel_adc_and_gpio_expander_pcb_adafruit_ads7128_8_channel_adc_and_gpio_expander_current).
 
 ---
 

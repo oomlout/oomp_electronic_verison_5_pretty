@@ -3,7 +3,7 @@
 
 # ⚡ Resistor 53600 Ohm 0402
 
-> A concise OOMP catalogue definition organised under Electronic › Resistor › 0402 › 53600 Ohm.
+> Resistor 53600 Ohm 0402 is an OOMP electronic resistor definition. It uses the 0402 package or form factor. Its nominal drawing size is 1.0 × 0.5 mm.
 
 <p align="center"><img src="preview.png" alt="Resistor 53600 Ohm 0402 preview" width="560"></p>
 
@@ -18,7 +18,8 @@
 | Detail | Value |
 | --- | --- |
 | Type | Resistor |
-| Category | Resistor |
+| Package / style | 0402 |
+| Nominal size | 1.0 × 0.5 mm |
 | OOMP ID | `electronic_resistor_0402_53600_ohm` |
 
 ## Catalogue location
@@ -28,7 +29,7 @@
 
 ## About this page
 
-This is the compact catalogue view. This index entry was built directly from its working metadata. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_53600_ohm).
+This is the compact catalogue view. A detailed source README is available. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/electronic_resistor_0402_53600_ohm).
 
 ---
 

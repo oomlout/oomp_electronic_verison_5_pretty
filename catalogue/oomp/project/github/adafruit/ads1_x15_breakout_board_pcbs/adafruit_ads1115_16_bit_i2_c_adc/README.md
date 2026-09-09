@@ -1,0 +1,16 @@
+<!-- Generated navigation page. -->
+<sub>[Catalogue](../../../../../../README.md) / [OOMP](../../../../../README.md) / [Project](../../../../README.md) / [GitHub](../../../README.md) / [Adafruit](../../README.md) / [Ads1 X15 Breakout Board Pcbs](../README.md) / Adafruit Ads1115 16 Bit I2 C Adc</sub>
+
+# OOMP / Project / GitHub / Adafruit / Ads1 X15 Breakout Board Pcbs / Adafruit Ads1115 16 Bit I2 C Adc
+
+> Browse this branch of the OOMP taxonomy. Choose a group below to narrow the catalogue.
+
+**1** project
+
+## Explore
+
+- **[Current](current/README.md)**  <br><sub>1 project</sub>
+
+---
+
+[← Back to the catalogue](../../../../../../README.md) · [Full source repository](https://github.com/oomlout/oomp_electronic_version_5)

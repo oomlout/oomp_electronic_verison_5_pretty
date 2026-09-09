@@ -1,0 +1,275 @@
+<!-- Generated navigation page. -->
+<sub>[Catalogue](../../../../README.md) / [OOMP](../../../README.md) / [Project](../../README.md) / [GitHub](../README.md) / Sparkfun</sub>
+
+# OOMP / Project / GitHub / Sparkfun
+
+> Browse this branch of the OOMP taxonomy. Choose a group below to narrow the catalogue.
+
+**291** projects
+
+## Explore
+
+<details>
+<summary><strong>Browse all 255 entries</strong></summary>
+
+- **[2 D Barcode Scanner Breakout](2_d_barcode_scanner_breakout/README.md)**  <br><sub>1 project</sub>
+- **[32 U4 Breakout Board](32_u4_breakout_board/README.md)**  <br><sub>1 project</sub>
+- **[74 Hc4051 8 Channel Mux Breakout](74_hc4051_8_channel_mux_breakout/README.md)**  <br><sub>1 project</sub>
+- **[9 Dof Razor Imu](9_dof_razor_imu/README.md)**  <br><sub>1 project</sub>
+- **[Ad8232 Heart Rate Monitor](ad8232_heart_rate_monitor/README.md)**  <br><sub>1 project</sub>
+- **[Adxl335 Breakout](adxl335_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Adxl345 Breakout](adxl345_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Adxl345 Eval](adxl345_eval/README.md)**  <br><sub>1 project</sub>
+- **[Apds 9960 Rgb And Gesture Sensor](apds_9960_rgb_and_gesture_sensor/README.md)**  <br><sub>3 projects</sub>
+- **[Arduino Pro Mini 328](arduino_pro_mini_328/README.md)**  <br><sub>1 project</sub>
+- **[At42 Qt1010 Capacitive Touch Breakout](at42_qt1010_capacitive_touch_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Atmega128 Rfa1 Dev](atmega128_rfa1_dev/README.md)**  <br><sub>1 project</sub>
+- **[Bar Graph Breakout Kit](bar_graph_breakout_kit/README.md)**  <br><sub>1 project</sub>
+- **[Barometric Pressure Sensor Breakout Mpl115 A1](barometric_pressure_sensor_breakout_mpl115_a1/README.md)**  <br><sub>1 project</sub>
+- **[Benchtop Power Board Kit](benchtop_power_board_kit/README.md)**  <br><sub>1 project</sub>
+- **[Big Time](big_time/README.md)**  <br><sub>1 project</sub>
+- **[Blackberry Trackballer Breakout](blackberry_trackballer_breakout/README.md)**  <br><sub>2 projects</sub>
+- **[Blynk Board Esp8266](blynk_board_esp8266/README.md)**  <br><sub>1 project</sub>
+- **[Breadboard Power Supply 5 V 3 3 V](breadboard_power_supply_5_v_3_3_v/README.md)**  <br><sub>1 project</sub>
+- **[Buck Boost](buck_boost/README.md)**  <br><sub>1 project</sub>
+- **[Buck Regulator Ap63203](buck_regulator_ap63203/README.md)**  <br><sub>2 projects</sub>
+- **[Bus Pirate](bus_pirate/README.md)**  <br><sub>1 project</sub>
+- **[Can Bus Shield](can_bus_shield/README.md)**  <br><sub>1 project</sub>
+- **[Ccs811 Air Quality Breakout](ccs811_air_quality_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Cherry Mx Switch Breakout](cherry_mx_switch_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Color Lcdshield](color_lcdshield/README.md)**  <br><sub>1 project</sub>
+- **[Decade Resistance Box](decade_resistance_box/README.md)**  <br><sub>1 project</sub>
+- **[Digital Sandbox](digital_sandbox/README.md)**  <br><sub>1 project</sub>
+- **[Easy Driver](easy_driver/README.md)**  <br><sub>1 project</sub>
+- **[El Sequencer](el_sequencer/README.md)**  <br><sub>1 project</sub>
+- **[Electric Imp Shield](electric_imp_shield/README.md)**  <br><sub>1 project</sub>
+- **[Energy Harvester Breakout Ltc3588](energy_harvester_breakout_ltc3588/README.md)**  <br><sub>1 project</sub>
+- **[Esp32 Thing](esp32_thing/README.md)**  <br><sub>1 project</sub>
+- **[Esp32 Thing Plus](esp32_thing_plus/README.md)**  <br><sub>1 project</sub>
+- **[Esp8266 Thing](esp8266_thing/README.md)**  <br><sub>1 project</sub>
+- **[Esp8266 Thing Dev](esp8266_thing_dev/README.md)**  <br><sub>1 project</sub>
+- **[Femto Buck](femto_buck/README.md)**  <br><sub>1 project</sub>
+- **[Fm Tuner Basic Breakout Si4703](fm_tuner_basic_breakout_si4703/README.md)**  <br><sub>1 project</sub>
+- **[Ft232 Rl USB Breakout](ft232_rl_usb_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Geiger Counter](geiger_counter/README.md)**  <br><sub>1 project</sub>
+- **[Gps Evaluation Board Gp 2106](gps_evaluation_board_gp_2106/README.md)**  <br><sub>1 project</sub>
+- **[Hall Effect Current Sensor Breakout Acs712](hall_effect_current_sensor_breakout_acs712/README.md)**  <br><sub>1 project</sub>
+- **[Haptic Motor Driver](haptic_motor_driver/README.md)**  <br><sub>1 project</sub>
+- **[Hx711 Load Cell Amplifier](hx711_load_cell_amplifier/README.md)**  <br><sub>1 project</sub>
+- **[Ioio Otg](ioio_otg/README.md)**  <br><sub>1 project</sub>
+- **[Isl29125 Breakout](isl29125_breakout/README.md)**  <br><sub>1 project</sub>
+- **[L6470 Auto Driver](l6470_auto_driver/README.md)**  <br><sub>1 project</sub>
+- **[Large Digit Driver](large_digit_driver/README.md)**  <br><sub>1 project</sub>
+- **[Lcd Tft Breakout 1in8 128x160](lcd_tft_breakout_1in8_128x160/README.md)**  <br><sub>1 project</sub>
+- **[LED Driver Breakout Tlc5940](led_driver_breakout_tlc5940/README.md)**  <br><sub>1 project</sub>
+- **[Lily Pad Arduino USB](lily_pad_arduino_usb/README.md)**  <br><sub>1 project</sub>
+- **[Lily Pad Lily Mini Proto Snap](lily_pad_lily_mini_proto_snap/README.md)**  <br><sub>1 project</sub>
+- **[Lily Pad Mp3 Player](lily_pad_mp3_player/README.md)**  <br><sub>1 project</sub>
+- **[Lipo Fuel Gauge](lipo_fuel_gauge/README.md)**  <br><sub>1 project</sub>
+- **[Load Sensor Combinator](load_sensor_combinator/README.md)**  <br><sub>1 project</sub>
+- **[Logic Level Bidirectional](logic_level_bidirectional/README.md)**  <br><sub>1 project</sub>
+- **[Logomatic](logomatic/README.md)**  <br><sub>1 project</sub>
+- **[Lsm303 C 6 Dof Imu Breakout](lsm303_c_6_dof_imu_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Lsm6 Ds3 Breakout](lsm6_ds3_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Ltc4150 Coulomb Counter Bob](ltc4150_coulomb_counter_bob/README.md)**  <br><sub>1 project</sub>
+- **[Lte Cat M1 Shield](lte_cat_m1_shield/README.md)**  <br><sub>1 project</sub>
+- **[Lu Mini 3 Inch](lu_mini_3_inch/README.md)**  <br><sub>1 project</sub>
+- **[Lumi Drive](lumi_drive/README.md)**  <br><sub>1 project</sub>
+- **[Ma Key Ma Key](ma_key_ma_key/README.md)**  <br><sub>1 project</sub>
+- **[Max30105 Particle Sensor Breakout](max30105_particle_sensor_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Max3232 Breakout](max3232_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Mi P Proto Back](mi_p_proto_back/README.md)**  <br><sub>1 project</sub>
+- **[Micro Bit Controller Bit](micro_bit_controller_bit/README.md)**  <br><sub>1 project</sub>
+- **[Micro Bit Moto Bit](micro_bit_moto_bit/README.md)**  <br><sub>1 project</sub>
+- **[Micro Mod Artemis Processor](micro_mod_artemis_processor/README.md)**  <br><sub>1 project</sub>
+- **[Micro Mod Atp Carrier Board](micro_mod_atp_carrier_board/README.md)**  <br><sub>1 project</sub>
+- **[Micro Mod Atp Carrier Board Promo Constellation](micro_mod_atp_carrier_board_promo_constellation/README.md)**  <br><sub>1 project</sub>
+- **[Micro Mod Data Logging Carrier](micro_mod_data_logging_carrier/README.md)**  <br><sub>1 project</sub>
+- **[Micro Mod Esp32 Processor](micro_mod_esp32_processor/README.md)**  <br><sub>1 project</sub>
+- **[Micro Mod Function Ethernet W5500](micro_mod_function_ethernet_w5500/README.md)**  <br><sub>1 project</sub>
+- **[Micro Mod Machine Learning Carrier](micro_mod_machine_learning_carrier/README.md)**  <br><sub>1 project</sub>
+- **[Micro Mod Processor Rp2040](micro_mod_processor_rp2040/README.md)**  <br><sub>1 project</sub>
+- **[Micro Mod Stm32 Processor](micro_mod_stm32_processor/README.md)**  <br><sub>1 project</sub>
+- **[Micro Mod Teensy Processor](micro_mod_teensy_processor/README.md)**  <br><sub>2 projects</sub>
+- **[Micro Oled Breakout](micro_oled_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Micro Sd Sniffer](micro_sd_sniffer/README.md)**  <br><sub>1 project</sub>
+- **[Micro Sd Transflash Breakout](micro_sd_transflash_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Micro View USB Programmer](micro_view_usb_programmer/README.md)**  <br><sub>1 project</sub>
+- **[Midi Shield](midi_shield/README.md)**  <br><sub>1 project</sub>
+- **[Mini Gen](mini_gen/README.md)**  <br><sub>1 project</sub>
+- **[Mono Audio Amp Breakout Tpa2005 D1](mono_audio_amp_breakout_tpa2005_d1/README.md)**  <br><sub>1 project</sub>
+- **[Motor Driver Dual Tb6612 Fng](motor_driver_dual_tb6612_fng/README.md)**  <br><sub>1 project</sub>
+- **[Mp3 Breakout Vs1063](mp3_breakout_vs1063/README.md)**  <br><sub>1 project</sub>
+- **[Mp3 Player Shield](mp3_player_shield/README.md)**  <br><sub>1 project</sub>
+- **[Mpl3115 A2 Breakout](mpl3115_a2_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Mpr121 Capacitive Touch Breakout](mpr121_capacitive_touch_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Mpr121 Capacitive Touch Keypad](mpr121_capacitive_touch_keypad/README.md)**  <br><sub>1 project</sub>
+- **[Mpu 6050 Breakout](mpu_6050_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Mpu 9250 Breakout](mpu_9250_breakout/README.md)**  <br><sub>1 project</sub>
+- **[N Rf52832 Breakout](n_rf52832_breakout/README.md)**  <br><sub>1 project</sub>
+- **[N Rf52840 Breakout Mdbt50 Q](n_rf52840_breakout_mdbt50_q/README.md)**  <br><sub>1 project</sub>
+- **[Ncp1402 3 3 V](ncp1402_3_3_v/README.md)**  <br><sub>1 project</sub>
+- **[Obd Ii Uart](obd_ii_uart/README.md)**  <br><sub>1 project</sub>
+- **[On Screen Display Breakout Max7456](on_screen_display_breakout_max7456/README.md)**  <br><sub>1 project</sub>
+- **[Open Log](open_log/README.md)**  <br><sub>1 project</sub>
+- **[Open Log Artemis](open_log_artemis/README.md)**  <br><sub>1 project</sub>
+- **[Open Pir](open_pir/README.md)**  <br><sub>1 project</sub>
+- **[Open Scale](open_scale/README.md)**  <br><sub>1 project</sub>
+- **[Opto Isolator Breakout](opto_isolator_breakout/README.md)**  <br><sub>1 project</sub>
+- **[P8 X32 A Breakout](p8_x32_a_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Photon Battery Shield](photon_battery_shield/README.md)**  <br><sub>1 project</sub>
+- **[Pi Servo Hat](pi_servo_hat/README.md)**  <br><sub>1 project</sub>
+- **[Pocket Avr Programmer](pocket_avr_programmer/README.md)**  <br><sub>1 project</sub>
+- **[Power Delivery Board USB C](power_delivery_board_usb_c/README.md)**  <br><sub>1 project</sub>
+- **[Pro Micro](pro_micro/README.md)**  <br><sub>2 projects</sub>
+- **[Proto Snap Lily Pad Development Board](proto_snap_lily_pad_development_board/README.md)**  <br><sub>1 project</sub>
+- **[Purpletooth Jamboree](purpletooth_jamboree/README.md)**  <br><sub>1 project</sub>
+- **[Qre1113 Line Sensor Analog](qre1113_line_sensor_analog/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Alphanumeric Display Breakout](qwiic_alphanumeric_display_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Bus End Point](qwiic_bus_end_point/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Button](qwiic_button/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Capacitive Touch Slider Cap1203](qwiic_capacitive_touch_slider_cap1203/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Environmental Sensor Bme688](qwiic_environmental_sensor_bme688/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Gps Rtk2](qwiic_gps_rtk2/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Haptic Driver Da7280](qwiic_haptic_driver_da7280/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Hat For Raspberry Pi](qwiic_hat_for_raspberry_pi/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Imu Bno080](qwiic_imu_bno080/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Ir Array Mlx90640](qwiic_ir_array_mlx90640/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Joystick](qwiic_joystick/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Kx13 X](qwiic_kx13_x/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Magnetometer Mlx90393](qwiic_magnetometer_mlx90393/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Mp3 Trigger](qwiic_mp3_trigger/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Multi Port](qwiic_multi_port/README.md)**  <br><sub>3 projects</sub>
+- **[Qwiic Mux Tca9548 A](qwiic_mux_tca9548_a/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Spectral Sensor As726 X](qwiic_spectral_sensor_as726_x/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Spectral Sensor As7265x](qwiic_spectral_sensor_as7265x/README.md)**  <br><sub>1 project</sub>
+- **[Qwiic Transparent Graphical Oled](qwiic_transparent_graphical_oled/README.md)**  <br><sub>1 project</sub>
+- **[Red Board](red_board/README.md)**  <br><sub>1 project</sub>
+- **[Red Board Artemis Nano](red_board_artemis_nano/README.md)**  <br><sub>1 project</sub>
+- **[Red V](red_v/README.md)**  <br><sub>1 project</sub>
+- **[Rfm69 Hcw Breakout](rfm69_hcw_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Rj11 Breakout](rj11_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Rotary Switch Breakout](rotary_switch_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Rp2040 Mikro Bus Dev Board](rp2040_mikro_bus_dev_board/README.md)**  <br><sub>1 project</sub>
+- **[Samd21 Dev Breakout](samd21_dev_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Samd21 Mini Breakout](samd21_mini_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Samd51 Thing Plus](samd51_thing_plus/README.md)**  <br><sub>1 project</sub>
+- **[Sd Mmc Breakout](sd_mmc_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Sd Sniffer](sd_sniffer/README.md)**  <br><sub>1 project</sub>
+- **[Serial Alphanumeric Display Driver](serial_alphanumeric_display_driver/README.md)**  <br><sub>1 project</sub>
+- **[Serial Basic Breakout Ch340 C](serial_basic_breakout_ch340_c/README.md)**  <br><sub>1 project</sub>
+- **[Serial Enabled Lcd Backpack](serial_enabled_lcd_backpack/README.md)**  <br><sub>1 project</sub>
+- **[Serial7 Segment Display](serial7_segment_display/README.md)**  <br><sub>1 project</sub>
+- **[Si4703 Fm Tuner Evaluation Board](si4703_fm_tuner_evaluation_board/README.md)**  <br><sub>1 project</sub>
+- **[Si4707 Breakout](si4707_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Sim Card Breakout](sim_card_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Simon Says](simon_says/README.md)**  <br><sub>1 project</sub>
+- **[Simultaneous Rfid Tag Reader](simultaneous_rfid_tag_reader/README.md)**  <br><sub>1 project</sub>
+- **[Soic20 Dip Adapter](soic20_dip_adapter/README.md)**  <br><sub>1 project</sub>
+- **[Soic28 Dip Adapter](soic28_dip_adapter/README.md)**  <br><sub>1 project</sub>
+- **[Soic8 Dip Adapter](soic8_dip_adapter/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun 6 Do F Lsm6 Dsv16 X](spark_fun_6_do_f_lsm6_dsv16_x/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Artemis](spark_fun_artemis/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Artemis Global Tracker](spark_fun_artemis_global_tracker/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun As3935 Lightning Detector](spark_fun_as3935_lightning_detector/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Audio Codec Breakout Wm8960](spark_fun_audio_codec_breakout_wm8960/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Audio Player Breakout My1690 X 16 S](spark_fun_audio_player_breakout_my1690_x_16_s/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Buck Regulator Ap3429 A](spark_fun_buck_regulator_ap3429_a/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Buck Regulator Ap63357 Dv 7](spark_fun_buck_regulator_ap63357_dv_7/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Capacitive Soil Moisture Sensor Cy8 Cmbr3102](spark_fun_capacitive_soil_moisture_sensor_cy8_cmbr3102/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Clock Generator 5 P49 V60](spark_fun_clock_generator_5_p49_v60/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Data Logger Io T 9 Do F](spark_fun_data_logger_io_t_9_do_f/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Differential I2 C Breakout Pca9615 Qwiic](spark_fun_differential_i2_c_breakout_pca9615_qwiic/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Digi Xbee Arduino Shield USB C](spark_fun_digi_xbee_arduino_shield_usb_c/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Digi Xbee Development Board](spark_fun_digi_xbee_development_board/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Digi Xbee Explorer USB C](spark_fun_digi_xbee_explorer_usb_c/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Digi Xbee Regulated Qwiic](spark_fun_digi_xbee_regulated_qwiic/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Environmental Combo Breakout Ens160 Bme280 Qwiic](spark_fun_environmental_combo_breakout_ens160_bme280_qwiic/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Esp32 Thing Plus Dmx To LED Shield](spark_fun_esp32_thing_plus_dmx_to_led_shield/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Gnss Combo Breakout Zed F9 P Neo D9 S](spark_fun_gnss_combo_breakout_zed_f9_p_neo_d9_s/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Gnss Dan F10 N](spark_fun_gnss_dan_f10_n/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Gnss Dead Reckoning Zed F9 K](spark_fun_gnss_dead_reckoning_zed_f9_k/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Gnss Flex Breakout](spark_fun_gnss_flex_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Gnss Function Board Neo M9 N](spark_fun_gnss_function_board_neo_m9_n/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Gnss Timing Zed F9 T](spark_fun_gnss_timing_zed_f9_t/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Gps Dead Reckoning Phat Zed F9 R](spark_fun_gps_dead_reckoning_phat_zed_f9_r/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Gps Dead Reckoning Zed F9 R](spark_fun_gps_dead_reckoning_zed_f9_r/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Io T Brushless Motor Driver](spark_fun_io_t_brushless_motor_driver/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Lo Ra Serial](spark_fun_lo_ra_serial/README.md)**  <br><sub>3 projects</sub>
+- **[Spark Fun Lte Gnss Breakout Sara R510 M8 S](spark_fun_lte_gnss_breakout_sara_r510_m8_s/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Micro Mod Lte Gnss Function Board U Blox Sara R5](spark_fun_micro_mod_lte_gnss_function_board_u_blox_sara_r5/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Micro Mod Main Board Double](spark_fun_micro_mod_main_board_double/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Micro Mod Main Board Single](spark_fun_micro_mod_main_board_single/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Micro Mod Single Pair Ethernet Function Board Adin1110](spark_fun_micro_mod_single_pair_ethernet_function_board_adin1110/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Nano Beacon Board In100](spark_fun_nano_beacon_board_in100/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Particulate Matter Sensor Breakout Bmv080](spark_fun_particulate_matter_sensor_breakout_bmv080/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Pi Avr Programmer Hat](spark_fun_pi_avr_programmer_hat/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Pro Micro Rp2040](spark_fun_pro_micro_rp2040/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Pulse Oximeter Heart Rate Sensor](spark_fun_pulse_oximeter_heart_rate_sensor/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Qwiic 6 Do F Bmi270](spark_fun_qwiic_6_do_f_bmi270/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Qwiic 6 Do F Ism330 Dhcx](spark_fun_qwiic_6_do_f_ism330_dhcx/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Qwiic 6 Do F Lsm6 Dso](spark_fun_qwiic_6_do_f_lsm6_dso/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Qwiic 9 Do F Imu Breakout](spark_fun_qwiic_9_do_f_imu_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Qwiic Adc Ads1219](spark_fun_qwiic_adc_ads1219/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Qwiic Co2 Sensor Scd4 X](spark_fun_qwiic_co2_sensor_scd4_x/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Qwiic Co2 Sensor Xensiv Pas](spark_fun_qwiic_co2_sensor_xensiv_pas/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Qwiic Current Sensor Ade7953](spark_fun_qwiic_current_sensor_ade7953/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Qwiic Current Sensor Ina2 Xx](spark_fun_qwiic_current_sensor_ina2_xx/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Qwiic Directional Pad](spark_fun_qwiic_directional_pad/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Qwiic Gnss Sam M8 Q](spark_fun_qwiic_gnss_sam_m8_q/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Qwiic LED Stick](spark_fun_qwiic_led_stick/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Qwiic Navigation Switch](spark_fun_qwiic_navigation_switch/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Qwiic Pocket Dev Board Esp32 C6](spark_fun_qwiic_pocket_dev_board_esp32_c6/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Red V Thing Plus](spark_fun_red_v_thing_plus/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Roller Encoder Breakout](spark_fun_roller_encoder_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Rtk Evk](spark_fun_rtk_evk/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Rtk Facet](spark_fun_rtk_facet/README.md)**  <br><sub>7 projects</sub>
+- **[Spark Fun Rtk Reference Station](spark_fun_rtk_reference_station/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Rtk Surveyor](spark_fun_rtk_surveyor/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Satellite Transceiver Swarm M138](spark_fun_satellite_transceiver_swarm_m138/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Temperature Sensor Stts22 H](spark_fun_temperature_sensor_stts22_h/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Thing Plus Aw Cu488](spark_fun_thing_plus_aw_cu488/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Thing Plus Esp32 C6](spark_fun_thing_plus_esp32_c6/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Thing Plus Esp32 Wroom C](spark_fun_thing_plus_esp32_wroom_c/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Thing Plus Mgm240 P](spark_fun_thing_plus_mgm240_p/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Thing Plus Nora W306](spark_fun_thing_plus_nora_w306/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Thing Plus Rp2040](spark_fun_thing_plus_rp2040/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Three Phase Motor Driver Tmc6300](spark_fun_three_phase_motor_driver_tmc6300/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Tpl5110 Nano Power Timer](spark_fun_tpl5110_nano_power_timer/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Triple Axis Acclerometer Lis3 Dh](spark_fun_triple_axis_acclerometer_lis3_dh/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Tristimulus Color Sensor Opt4048](spark_fun_tristimulus_color_sensor_opt4048/README.md)**  <br><sub>2 projects</sub>
+- **[Spark Fun Tsunami Super Wav Trigger Qwiic](spark_fun_tsunami_super_wav_trigger_qwiic/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun U Blox Max M10 S](spark_fun_u_blox_max_m10_s/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun U Blox Neo F10 N](spark_fun_u_blox_neo_f10_n/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun U Blox Neo M8 U](spark_fun_u_blox_neo_m8_u/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun U Blox Neo M9 N](spark_fun_u_blox_neo_m9_n/README.md)**  <br><sub>3 projects</sub>
+- **[Spark Fun U Blox Sam M10 Q](spark_fun_u_blox_sam_m10_q/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun USB C Host Shield](spark_fun_usb_c_host_shield/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Vr Imu Breakout Bno086 Qwiic](spark_fun_vr_imu_breakout_bno086_qwiic/README.md)**  <br><sub>1 project</sub>
+- **[Spark Fun Xrp Controller](spark_fun_xrp_controller/README.md)**  <br><sub>2 projects</sub>
+- **[Sparkpunk](sparkpunk/README.md)**  <br><sub>1 project</sub>
+- **[Sparkpunk Sequencer](sparkpunk_sequencer/README.md)**  <br><sub>1 project</sub>
+- **[Speed Trap](speed_trap/README.md)**  <br><sub>1 project</sub>
+- **[Ssop Dip Adapter 16 Pin](ssop_dip_adapter_16_pin/README.md)**  <br><sub>1 project</sub>
+- **[Ssop Dip Adapter 28 Pin](ssop_dip_adapter_28_pin/README.md)**  <br><sub>1 project</sub>
+- **[Ssop Dip Adapter 8 Pin](ssop_dip_adapter_8_pin/README.md)**  <br><sub>1 project</sub>
+- **[Sx1509 Io Expander](sx1509_io_expander/README.md)**  <br><sub>1 project</sub>
+- **[That 1646 Breakout](that_1646_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Tiny Avr Programmer](tiny_avr_programmer/README.md)**  <br><sub>1 project</sub>
+- **[Touch Screen Connector Breakout Nintendo Ds](touch_screen_connector_breakout_nintendo_ds/README.md)**  <br><sub>1 project</sub>
+- **[Trrs 3 5mm Jack Breakout](trrs_3_5mm_jack_breakout/README.md)**  <br><sub>1 project</sub>
+- **[Tsl2561 Luminosity Sensor Bob](tsl2561_luminosity_sensor_bob/README.md)**  <br><sub>1 project</sub>
+- **[Tsunami](tsunami/README.md)**  <br><sub>2 projects</sub>
+- **[Ubw32](ubw32/README.md)**  <br><sub>2 projects</sub>
+- **[USB C Breakout](usb_c_breakout/README.md)**  <br><sub>1 project</sub>
+- **[USB Serial Gpio Breakout Cp2103](usb_serial_gpio_breakout_cp2103/README.md)**  <br><sub>1 project</sub>
+- **[Voice Box Shield](voice_box_shield/README.md)**  <br><sub>1 project</sub>
+- **[Wav Trigger](wav_trigger/README.md)**  <br><sub>1 project</sub>
+- **[Wi Fly Shield](wi_fly_shield/README.md)**  <br><sub>1 project</sub>
+- **[Xbee Explorer Regulated](xbee_explorer_regulated/README.md)**  <br><sub>1 project</sub>
+
+</details>
+
+---
+
+[← Back to the catalogue](../../../../README.md) · [Full source repository](https://github.com/oomlout/oomp_electronic_version_5)

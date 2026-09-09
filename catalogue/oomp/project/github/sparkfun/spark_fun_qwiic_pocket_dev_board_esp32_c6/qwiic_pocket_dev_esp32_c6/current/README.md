@@ -1,0 +1,37 @@
+<!-- Generated item page. Full data lives in the source repository. -->
+<sub>[Catalogue](../../../../../../../README.md) / [OOMP](../../../../../../README.md) / [Project](../../../../../README.md) / [GitHub](../../../../README.md) / [Sparkfun](../../../README.md) / [Spark Fun Qwiic Pocket Dev Board Esp32 C6](../../README.md) / [Qwiic Pocket Dev Esp32 C6](../README.md) / Current</sub>
+
+# 🧭 Project sparkfun/SparkFun_Qwiic_Pocket_Dev_Board_ESP32_C6 Qwiic Pocket
+
+> A concise OOMP hardware project organised under OOMP › Project › GitHub › Sparkfun.
+
+<div align="center">
+
+**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_spark_fun_qwiic_pocket_dev_board_esp32_c6_qwiic_pocket_dev_esp32_c6_current)** · [Original project files](https://github.com/sparkfun/SparkFun_Qwiic_Pocket_Dev_Board_ESP32_C6/blob/main/Hardware/Qwiic_Pocket_Dev_ESP32_C6.brd)
+
+</div>
+
+## At a glance
+
+| Detail | Value |
+| --- | --- |
+| Owner | sparkfun |
+| Repository | SparkFun_Qwiic_Pocket_Dev_Board_ESP32_C6 |
+| Board | Qwiic Pocket Dev ESP32 C6 |
+| Source format | eagle |
+| Version | current |
+| Git ref | main |
+| OOMP ID | `oomp_project_github_sparkfun_spark_fun_qwiic_pocket_dev_board_esp32_c6_qwiic_pocket_dev_esp32_c6_current` |
+
+## Catalogue location
+
+`OOMP › Project › GitHub › Sparkfun › Spark Fun Qwiic Pocket Dev Board Esp32 C6 › Qwiic Pocket Dev Esp32 C6 › Current`
+
+
+## About this page
+
+This is the compact catalogue view. This index entry was built directly from its working metadata. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_spark_fun_qwiic_pocket_dev_board_esp32_c6_qwiic_pocket_dev_esp32_c6_current).
+
+---
+
+[↑ Parent category](../README.md) · [Catalogue home](../../../../../../../README.md)

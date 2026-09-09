@@ -1,0 +1,37 @@
+<!-- Generated item page. Full data lives in the source repository. -->
+<sub>[Catalogue](../../../../../../../README.md) / [OOMP](../../../../../../README.md) / [Project](../../../../../README.md) / [GitHub](../../../../README.md) / [Adafruit](../../../README.md) / [Adafruit Pi Cowbell Can Bus PCB](../../README.md) / [Adafruit Pi Cowbell Can Bus](../README.md) / Current</sub>
+
+# 🧭 Project adafruit/Adafruit-PiCowbell-CAN-Bus-PCB Adafruit Pi Cowbell CAN
+
+> A concise OOMP hardware project organised under OOMP › Project › GitHub › Adafruit.
+
+<div align="center">
+
+**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_pi_cowbell_can_bus_pcb_adafruit_pi_cowbell_can_bus_current)** · [Original project files](https://github.com/adafruit/Adafruit-PiCowbell-CAN-Bus-PCB/blob/main/Adafruit%20PiCowbell%20CAN%20Bus.brd)
+
+</div>
+
+## At a glance
+
+| Detail | Value |
+| --- | --- |
+| Owner | adafruit |
+| Repository | Adafruit-PiCowbell-CAN-Bus-PCB |
+| Board | Adafruit Pi Cowbell CAN Bus |
+| Source format | eagle |
+| Version | current |
+| Git ref | main |
+| OOMP ID | `oomp_project_github_adafruit_adafruit_pi_cowbell_can_bus_pcb_adafruit_pi_cowbell_can_bus_current` |
+
+## Catalogue location
+
+`OOMP › Project › GitHub › Adafruit › Adafruit Pi Cowbell Can Bus PCB › Adafruit Pi Cowbell Can Bus › Current`
+
+
+## About this page
+
+This is the compact catalogue view. This index entry was built directly from its working metadata. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_pi_cowbell_can_bus_pcb_adafruit_pi_cowbell_can_bus_current).
+
+---
+
+[↑ Parent category](../README.md) · [Catalogue home](../../../../../../../README.md)

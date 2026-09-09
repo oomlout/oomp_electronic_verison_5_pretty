@@ -1,0 +1,37 @@
+<!-- Generated item page. Full data lives in the source repository. -->
+<sub>[Catalogue](../../../../../../../README.md) / [OOMP](../../../../../../README.md) / [Project](../../../../../README.md) / [GitHub](../../../../README.md) / [Adafruit](../../../README.md) / [Adafruit Proto Shield PCB](../../README.md) / [Adafruit Proto Shield](../README.md) / Current</sub>
+
+# 🧭 Project adafruit/Adafruit-Proto-Shield-PCB Adafruit Proto Shield current
+
+> A concise OOMP hardware project organised under OOMP › Project › GitHub › Adafruit.
+
+<div align="center">
+
+**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_proto_shield_pcb_adafruit_proto_shield_current)** · [Original project files](https://github.com/adafruit/Adafruit-Proto-Shield-PCB/blob/master/Adafruit%20Proto%20Shield.brd)
+
+</div>
+
+## At a glance
+
+| Detail | Value |
+| --- | --- |
+| Owner | adafruit |
+| Repository | Adafruit-Proto-Shield-PCB |
+| Board | Adafruit Proto Shield |
+| Source format | eagle |
+| Version | current |
+| Git ref | master |
+| OOMP ID | `oomp_project_github_adafruit_adafruit_proto_shield_pcb_adafruit_proto_shield_current` |
+
+## Catalogue location
+
+`OOMP › Project › GitHub › Adafruit › Adafruit Proto Shield PCB › Adafruit Proto Shield › Current`
+
+
+## About this page
+
+This is the compact catalogue view. This index entry was built directly from its working metadata. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_proto_shield_pcb_adafruit_proto_shield_current).
+
+---
+
+[↑ Parent category](../README.md) · [Catalogue home](../../../../../../../README.md)

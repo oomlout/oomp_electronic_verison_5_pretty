@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">OOMP Electronic Catalogue</title>
+  <desc id="description">A calm, visual index of open electronic parts, mechanical details, and hardware projects.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#242056"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#background)"/>
+  <g fill="none" stroke="#6d5dfc" stroke-width="4" opacity=".75">
+    <path d="M0 74h145l38 38h92M0 244h112l52-52h100M1200 62h-148l-44 44h-92M1200 252h-126l-48-48h-104"/>
+    <path d="M77 0v55m1046-55v55M76 320v-54m1048 54v-54"/>
+  </g>
+  <g fill="#6d5dfc" filter="url(#glow)">
+    <circle cx="278" cy="112" r="8"/><circle cx="267" cy="192" r="8"/><circle cx="913" cy="106" r="8"/><circle cx="919" cy="204" r="8"/>
+  </g>
+  <text x="600" y="143" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" text-anchor="middle">OOMP Electronic Catalogue</text>
+  <text x="600" y="198" fill="#d9d8ff" font-family="Segoe UI, Arial, sans-serif" font-size="21" text-anchor="middle">A calm, visual index of open electronic parts, mechanical details, and hardware projects.</text>
+  <g transform="translate(557 226)" fill="none" stroke="#ffffff" stroke-width="3" opacity=".9">
+    <rect x="0" y="0" width="86" height="42" rx="8"/><path d="M-18 10H0m-18 11H0m-18 11H0m86-22h18m-18 11h18m-18 11h18"/>
+  </g>
+</svg>

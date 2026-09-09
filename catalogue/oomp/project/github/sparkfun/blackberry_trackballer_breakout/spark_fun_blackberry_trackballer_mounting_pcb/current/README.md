@@ -1,0 +1,37 @@
+<!-- Generated item page. Full data lives in the source repository. -->
+<sub>[Catalogue](../../../../../../../README.md) / [OOMP](../../../../../../README.md) / [Project](../../../../../README.md) / [GitHub](../../../../README.md) / [Sparkfun](../../../README.md) / [Blackberry Trackballer Breakout](../../README.md) / [Spark Fun Blackberry Trackballer Mounting PCB](../README.md) / Current</sub>
+
+# 🧭 Project sparkfun/Blackberry_Trackballer_Breakout Spark Fun Blackberry
+
+> A concise OOMP hardware project organised under OOMP › Project › GitHub › Sparkfun.
+
+<div align="center">
+
+**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_blackberry_trackballer_breakout_spark_fun_blackberry_trackballer_mounting_pcb_current)** · [Original project files](https://github.com/sparkfun/Blackberry_Trackballer_Breakout/blob/master/Hardware/SparkFun_Blackberry_Trackballer_MountingPCB.brd)
+
+</div>
+
+## At a glance
+
+| Detail | Value |
+| --- | --- |
+| Owner | sparkfun |
+| Repository | Blackberry_Trackballer_Breakout |
+| Board | Spark Fun Blackberry Trackballer Mounting PCB |
+| Source format | eagle |
+| Version | current |
+| Git ref | master |
+| OOMP ID | `oomp_project_github_sparkfun_blackberry_trackballer_breakout_spark_fun_blackberry_trackballer_mounting_pcb_current` |
+
+## Catalogue location
+
+`OOMP › Project › GitHub › Sparkfun › Blackberry Trackballer Breakout › Spark Fun Blackberry Trackballer Mounting PCB › Current`
+
+
+## About this page
+
+This is the compact catalogue view. This index entry was built directly from its working metadata. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_blackberry_trackballer_breakout_spark_fun_blackberry_trackballer_mounting_pcb_current).
+
+---
+
+[↑ Parent category](../README.md) · [Catalogue home](../../../../../../../README.md)

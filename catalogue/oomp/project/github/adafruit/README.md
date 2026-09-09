@@ -1,0 +1,370 @@
+<!-- Generated navigation page. -->
+<sub>[Catalogue](../../../../README.md) / [OOMP](../../../README.md) / [Project](../../README.md) / [GitHub](../README.md) / Adafruit</sub>
+
+# OOMP / Project / GitHub / Adafruit
+
+> Browse this branch of the OOMP taxonomy. Choose a group below to narrow the catalogue.
+
+**530** projects
+
+## Explore
+
+<details>
+<summary><strong>Browse all 350 entries</strong></summary>
+
+- **[2 8 Tft Breakout PCB](2_8_tft_breakout_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[2 Axis Joystick Breakout Board With Mounting Holes](2_axis_joystick_breakout_board_with_mounting_holes/README.md)**  <br><sub>1 project</sub>
+- **[4 Channel Level Shifter PCB](4_channel_level_shifter_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 0 96 160x80 Tft Display Breakout PCB](adafruit_0_96_160x80_tft_display_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 1 14 Inch 240x135 Tft PCB](adafruit_1_14_inch_240x135_tft_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 1 28 240x240 Round Display PCB](adafruit_1_28_240x240_round_display_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 1 3 Inch 240x240 Tft PCB](adafruit_1_3_inch_240x240_tft_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit 1 3in Color Tft Bonnet PCB](adafruit_1_3in_color_tft_bonnet_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 1 54 Inch 240x240 Tft PCB](adafruit_1_54_inch_240x240_tft_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit 1 69in 280x240 Round Rectangle Tft PCB](adafruit_1_69in_280x240_round_rectangle_tft_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 1 8 Inch Tft Breakout PCB](adafruit_1_8_inch_tft_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 1 8 Tft Shield PCB](adafruit_1_8_tft_shield_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 128x32 I2 C Oled Breakout PCB](adafruit_128x32_i2_c_oled_breakout_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit 128x32 Spi Oled Breakout Board PCB](adafruit_128x32_spi_oled_breakout_board_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 128x64 Monochrome Oled PCB](adafruit_128x64_monochrome_oled_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit 128x64 Oled Bonnet For Raspberry Pi PCB](adafruit_128x64_oled_bonnet_for_raspberry_pi_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 16 Channel Pwm Servo Driver PCB](adafruit_16_channel_pwm_servo_driver_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 16 Channel Pwm Servo Shield](adafruit_16_channel_pwm_servo_shield/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 2 0 Inch 240x320 Tft PCB](adafruit_2_0_inch_240x320_tft_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit 2 4 Tft Feather Wing PCB](adafruit_2_4_tft_feather_wing_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 2 8 Inch Tft Shield PCB](adafruit_2_8_inch_tft_shield_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 2 8 Tft Shield V2 PCB](adafruit_2_8_tft_shield_v2_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit 2 8 Tft With Capacitive Touch PCB](adafruit_2_8_tft_with_capacitive_touch_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 40 Pin Tft Friend](adafruit_40_pin_tft_friend/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 5 Hdmi Backpack PCB](adafruit_5_hdmi_backpack_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 50pin To 40pin Tft With Ar1100 Adapter PCB](adafruit_50pin_to_40pin_tft_with_ar1100_adapter_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit 9 Dof And 10 Dof Pcbs](adafruit_9_dof_and_10_dof_pcbs/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit 96x64 Rgb Oled Breakout PCB](adafruit_96x64_rgb_oled_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit A4988 Breakout PCB](adafruit_a4988_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ad5693 R Breakout Board PCB](adafruit_ad5693_r_breakout_board_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Adalogger Feather Wing PCB](adafruit_adalogger_feather_wing_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ads122 C04 24 Bit Adc PCB](adafruit_ads122_c04_24_bit_adc_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ads7128 8 Channel Adc And Gpio Expander PCB](adafruit_ads7128_8_channel_adc_and_gpio_expander_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Adxl345 PCB](adafruit_adxl345_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Adxl375 PCB](adafruit_adxl375_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Aht20 PCB](adafruit_aht20_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Air Lift Feather Wing PCB](adafruit_air_lift_feather_wing_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Analog Accelerometers Pcbs](adafruit_analog_accelerometers_pcbs/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit Animated Eyes Bonnet PCB](adafruit_animated_eyes_bonnet_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ano Rotary Navigation Encoder Breakout PCB](adafruit_ano_rotary_navigation_encoder_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ano Rotary Navigation Encoder To I2 C](adafruit_ano_rotary_navigation_encoder_to_i2_c/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Apds9999 Proximity Light And Color Sensor PCB](adafruit_apds9999_proximity_light_and_color_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit As7331 Uv Uva Uvb Uvc Sensor PCB](adafruit_as7331_uv_uva_uvb_uvc_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit As7341 PCB](adafruit_as7341_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit As7343 14 Channel Light Color Sensor PCB](adafruit_as7343_14_channel_light_color_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Atecc608 PCB](adafruit_atecc608_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Atmega32u4 Breakout Board](adafruit_atmega32u4_breakout_board/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Aw9523 PCB](adafruit_aw9523_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Beagle Bone Proto Board PCB](adafruit_beagle_bone_proto_board_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Bh1750 PCB](adafruit_bh1750_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Bluefruit Le USB Friend And Sniffer PCB](adafruit_bluefruit_le_usb_friend_and_sniffer_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Bme280 Breakout PCB](adafruit_bme280_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Bme680 PCB](adafruit_bme680_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Bmp085 PCB](adafruit_bmp085_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Bmp280 Breakout PCB](adafruit_bmp280_breakout_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Bmp3xx PCB](adafruit_bmp3xx_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit Bmp5xx Temperature And Pressure Sensor PCB](adafruit_bmp5xx_temperature_and_pressure_sensor_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit Bno055 Breakout PCB](adafruit_bno055_breakout_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Bno08x PCB](adafruit_bno08x_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Bq24074 PCB](adafruit_bq24074_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Bq25185 Charger Breakout PCB](adafruit_bq25185_charger_breakout_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Bq25185 With 3 3 V Buck PCB](adafruit_bq25185_with_3_3_v_buck_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Bq25185 With 5 V Boost PCB](adafruit_bq25185_with_5_v_boost_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Brain Craft Hat PCB](adafruit_brain_craft_hat_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Brain Machine Kit](adafruit_brain_machine_kit/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Breadboard Neo Pixel PCB](adafruit_breadboard_neo_pixel_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Can Pal PCB](adafruit_can_pal_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ch334 F Breakout PCB](adafruit_ch334_f_breakout_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Ch552 Qt Py PCB](adafruit_ch552_qt_py_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Charger Bff PCB](adafruit_charger_bff_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Charlie Plex Bonnet Pcbs](adafruit_charlie_plex_bonnet_pcbs/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Circuit Playground Express PCB](adafruit_circuit_playground_express_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Color Newxie Tft Display PCB](adafruit_color_newxie_tft_display_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Conway Game Of Life Kit](adafruit_conway_game_of_life_kit/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Cp2102 N Friend PCB](adafruit_cp2102_n_friend_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Csi Or Dsi Cable Adapter Thingy PCB](adafruit_csi_or_dsi_cable_adapter_thingy_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Csi Or Dsi Cable Extender Thingy For Raspberry Pi](adafruit_csi_or_dsi_cable_extender_thingy_for_raspberry_pi/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Dc Stepper Motor Feather Wing PCB](adafruit_dc_stepper_motor_feather_wing_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Dc Stepper Motor Hat PCB](adafruit_dc_stepper_motor_hat_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Dps310 PCB](adafruit_dps310_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Drv2605 PCB](adafruit_drv2605_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Drv8833 Motor Driver Breakout PCB](adafruit_drv8833_motor_driver_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Drv8871 Breakout PCB](adafruit_drv8871_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ds3231 Precision Rtc Breakout PCB](adafruit_ds3231_precision_rtc_breakout_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit E Paper Display Breakout Pcbs](adafruit_e_paper_display_breakout_pcbs/README.md)**  <br><sub>11 projects</sub>
+- **[Adafruit Emc2101 PCB](adafruit_emc2101_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ens161 Mox Gas Sensor PCB](adafruit_ens161_mox_gas_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Esp32 C6 Feather PCB](adafruit_esp32_c6_feather_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Esp32 Feather V2 PCB](adafruit_esp32_feather_v2_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Esp32 Huzzah Breakout PCB](adafruit_esp32_huzzah_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Esp32 S2 Reverse Tft Feather PCB](adafruit_esp32_s2_reverse_tft_feather_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Esp32 S2 Tft Feather PCB](adafruit_esp32_s2_tft_feather_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Esp32 S3 Reverse Tft Feather PCB](adafruit_esp32_s3_reverse_tft_feather_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Esp32 S3 Tft Feather PCB](adafruit_esp32_s3_tft_feather_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather 32u4 Basic Proto PCB](adafruit_feather_32u4_basic_proto_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather 32u4 Rfm Lo Ra PCB](adafruit_feather_32u4_rfm_lo_ra_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather Esp32 S2 PCB](adafruit_feather_esp32_s2_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather Esp32 S3 PCB](adafruit_feather_esp32_s3_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather Esp8266 Huzzah PCB](adafruit_feather_esp8266_huzzah_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather M0 Express PCB](adafruit_feather_m0_express_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather M0 Rfm Lo Ra PCB](adafruit_feather_m0_rfm_lo_ra_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather M4 Can PCB](adafruit_feather_m4_can_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather M4 Express PCB](adafruit_feather_m4_express_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather N Rf52840 Sense PCB](adafruit_feather_n_rf52840_sense_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather Rp2040 Adalogger PCB](adafruit_feather_rp2040_adalogger_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather Rp2040 Dvi PCB](adafruit_feather_rp2040_dvi_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather Rp2040 PCB](adafruit_feather_rp2040_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Feather Rp2040 Rfm PCB](adafruit_feather_rp2040_rfm_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather Rp2040 Think Ink](adafruit_feather_rp2040_think_ink/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather Rp2040 USB Host PCB](adafruit_feather_rp2040_usb_host_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather Rp2350 PCB](adafruit_feather_rp2350_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Feather Stm32 F405 Express PCB](adafruit_feather_stm32_f405_express_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Floppy Feather Wing PCB](adafruit_floppy_feather_wing_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Flora Mainboard](adafruit_flora_mainboard/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Flora Sewable 3 Pin JST Wiring Adapter PCB](adafruit_flora_sewable_3_pin_jst_wiring_adapter_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Flora Tcs34725 Color Sensor PCB](adafruit_flora_tcs34725_color_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Fona 800 Gsm Breakout PCB](adafruit_fona_800_gsm_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Fpc Smt Adapter Pcbs](adafruit_fpc_smt_adapter_pcbs/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit Fruit Jam PCB](adafruit_fruit_jam_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Ft232 H Breakout PCB](adafruit_ft232_h_breakout_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Ftdi Friend PCB](adafruit_ftdi_friend_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit Gemma M0 PCB](adafruit_gemma_m0_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Gemma PCB](adafruit_gemma_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Gp8403 Breakout Board PCB](adafruit_gp8403_breakout_board_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Grand Central PCB](adafruit_grand_central_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Guva Analog Uv Sensor Breakout PCB](adafruit_guva_analog_uv_sensor_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit High Power Infrared LED Emitter PCB](adafruit_high_power_infrared_led_emitter_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit High Voltage Updi Friend PCB](adafruit_high_voltage_updi_friend_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Huzzah32 Esp32 Feather PCB](adafruit_huzzah32_esp32_feather_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit I Cufflinks](adafruit_i_cufflinks/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit I2 C Qt Rotary Encoder PCB](adafruit_i2_c_qt_rotary_encoder_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit I2 C Quad Rotary Encoder Breakout PCB](adafruit_i2_c_quad_rotary_encoder_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit I2 C Spi Lcd Backpack PCB](adafruit_i2_c_spi_lcd_backpack_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit I2 C To 8 Channel Solenoid Driver PCB](adafruit_i2_c_to_8_channel_solenoid_driver_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit I2 S Audio Bonnet For Raspberry Pi PCB](adafruit_i2_s_audio_bonnet_for_raspberry_pi_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit I2 S Mems Microphone Breakout PCB](adafruit_i2_s_mems_microphone_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit I2 S Microphone Breakout PCB](adafruit_i2_s_microphone_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Icm20948 PCB](adafruit_icm20948_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ina219 Current Sensor PCB](adafruit_ina219_current_sensor_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit Ina228 PCB](adafruit_ina228_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ina260 PCB](adafruit_ina260_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ina3221 Breakout PCB](adafruit_ina3221_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Infrared Ir Remote Transceiver](adafruit_infrared_ir_remote_transceiver/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Is31 Fl3731 Charlie Plex LED Breakout PCB](adafruit_is31_fl3731_charlie_plex_led_breakout_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit Is31 Fl3741 PCB](adafruit_is31_fl3741_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ism330 Dhcx Lis3 Mdl Feather Wing PCB](adafruit_ism330_dhcx_lis3_mdl_feather_wing_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Iso1540 PCB](adafruit_iso1540_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Itsy Bitsy 32u4 PCB](adafruit_itsy_bitsy_32u4_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Itsy Bitsy Esp32 PCB](adafruit_itsy_bitsy_esp32_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Itsy Bitsy M4 Express PCB](adafruit_itsy_bitsy_m4_express_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Itsy Bitsy N Rf52840 Express PCB](adafruit_itsy_bitsy_n_rf52840_express_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Itsy Bitsy Rp2040 PCB](adafruit_itsy_bitsy_rp2040_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Kb2040 PCB](adafruit_kb2040_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Learning System Guides](adafruit_learning_system_guides/README.md)**  <br><sub>7 projects</sub>
+- **[Adafruit LED Backpacks](adafruit_led_backpacks/README.md)**  <br><sub>12 projects</sub>
+- **[Adafruit LED Sequin PCB](adafruit_led_sequin_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Lis2 Mdl PCB](adafruit_lis2_mdl_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Lis3 Dh Breakout PCB](adafruit_lis3_dh_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Lis331 PCB](adafruit_lis331_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Lm3671 Buck Converter PCB](adafruit_lm3671_buck_converter_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Lm4040 Voltage Reference PCB](adafruit_lm4040_voltage_reference_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Lm66200 PCB](adafruit_lm66200_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Macro Pad Rp2040 PCB](adafruit_macro_pad_rp2040_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Mag Tag Pcbs](adafruit_mag_tag_pcbs/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Matrix Portal M4 PCB](adafruit_matrix_portal_m4_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Matrix Portal S3 PCB](adafruit_matrix_portal_s3_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Max17048 PCB](adafruit_max17048_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Max31865 PCB](adafruit_max31865_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Max44009 Lux Light Sensor PCB](adafruit_max44009_lux_light_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Max6675 Breakout Board PCB](adafruit_max6675_breakout_board_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Max9814 Agc Microphone PCB](adafruit_max9814_agc_microphone_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Max98357 I2 S Amp Breakout](adafruit_max98357_i2_s_amp_breakout/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Mcp2221 PCB](adafruit_mcp2221_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Mcp73833 PCB](adafruit_mcp73833_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Mcp9600 PCB](adafruit_mcp9600_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Memento PCB](adafruit_memento_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit Menta PCB](adafruit_menta_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Metro 328 PCB](adafruit_metro_328_pcb/README.md)**  <br><sub>4 projects</sub>
+- **[Adafruit Metro Esp32 S2 PCB](adafruit_metro_esp32_s2_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Metro Esp32 S3 PCB](adafruit_metro_esp32_s3_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Metro M7 With Air Lift PCB](adafruit_metro_m7_with_air_lift_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Metro M7 With Micro Sd PCB](adafruit_metro_m7_with_micro_sd_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Metro Rp2040 PCB](adafruit_metro_rp2040_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Metro Rp2350 PCB](adafruit_metro_rp2350_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Micro Lipo PCB](adafruit_micro_lipo_pcb/README.md)**  <br><sub>6 projects</sub>
+- **[Adafruit Micro Sd Card Bff PCB](adafruit_micro_sd_card_bff_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Micro Sd Spi Or Sdio Card Breakout PCB](adafruit_micro_sd_spi_or_sdio_card_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Microtouch](adafruit_microtouch/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Mini I2 C Gamepad PCB](adafruit_mini_i2_c_gamepad_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Mini Pi Tft 240x135 Tft PCB](adafruit_mini_pi_tft_240x135_tft_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Mini Sparkle Motion PCB](adafruit_mini_sparkle_motion_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Minty Boost PCB](adafruit_minty_boost_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Mlx90640 PCB](adafruit_mlx90640_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Mosfet Driver Stemma PCB](adafruit_mosfet_driver_stemma_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Motor Shield V1](adafruit_motor_shield_v1/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Motor Shield V2 PCB](adafruit_motor_shield_v2_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Mpm3610 PCB](adafruit_mpm3610_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Mpr121 PCB](adafruit_mpr121_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit Mprls Pressure Sensor Breakout PCB](adafruit_mprls_pressure_sensor_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Mpu6050 PCB](adafruit_mpu6050_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit N Rf52 Bluefruit Feather PCB](adafruit_n_rf52_bluefruit_feather_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Neo Key Choc Breakout PCB](adafruit_neo_key_choc_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Neo Key Snap Apart PCB](adafruit_neo_key_snap_apart_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Neo Key Trinkey PCB](adafruit_neo_key_trinkey_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Neo Pixel 8x8 Matrix](adafruit_neo_pixel_8x8_matrix/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Neo Pixel Driver Bff PCB](adafruit_neo_pixel_driver_bff_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Neo Pixel Jewel 7](adafruit_neo_pixel_jewel_7/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Neo Pixel Ring](adafruit_neo_pixel_ring/README.md)**  <br><sub>6 projects</sub>
+- **[Adafruit Neo Trellis 4x4 PCB](adafruit_neo_trellis_4x4_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Neo Trellis M4 PCB And Enclosure](adafruit_neo_trellis_m4_pcb_and_enclosure/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Neo Trinkey PCB](adafruit_neo_trinkey_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ov5640 Camera Breakout PCB](adafruit_ov5640_camera_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit P Irkey PCB](adafruit_p_irkey_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Pa1010 D Mini Gps PCB](adafruit_pa1010_d_mini_gps_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Pam8302 Mono Amplifier PCB](adafruit_pam8302_mono_amplifier_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Pcm510x I2 S Dac PCB](adafruit_pcm510x_i2_s_dac_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Perma Proto Hat PCB](adafruit_perma_proto_hat_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Perma Proto PCB](adafruit_perma_proto_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Pi Cobber Pcbs](adafruit_pi_cobber_pcbs/README.md)**  <br><sub>4 projects</sub>
+- **[Adafruit Pi Cow Bell Hstx Dvi Output PCB](adafruit_pi_cow_bell_hstx_dvi_output_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Pi Cowbell Can Bus PCB](adafruit_pi_cowbell_can_bus_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Pi Grrl PCB](adafruit_pi_grrl_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Pi Oled 128x32 PCB](adafruit_pi_oled_128x32_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Pi Rtc Rtc For Raspberry Pi PCB](adafruit_pi_rtc_rtc_for_raspberry_pi_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Pi Tft 2 2 Inch Hat PCB](adafruit_pi_tft_2_2_inch_hat_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Pi Tft Plus 2 8 PCB](adafruit_pi_tft_plus_2_8_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Pixel Shifter PCB](adafruit_pixel_shifter_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Pmsa003 I PCB](adafruit_pmsa003_i_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Power Boost 1000 C](adafruit_power_boost_1000_c/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Power Boost 1000 PCB](adafruit_power_boost_1000_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Power Boost 500 Basic PCB](adafruit_power_boost_500_basic_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Power Boost 500 Charger PCB](adafruit_power_boost_500_charger_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Proto Screwshield PCB](adafruit_proto_screwshield_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Proto Shield PCB](adafruit_proto_shield_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Push Button Power Switch PCB](adafruit_push_button_power_switch_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Py Badge PCB](adafruit_py_badge_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Py Gamer PCB](adafruit_py_gamer_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Py Ruler PCB](adafruit_py_ruler_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Qspi Dip Breakout PCB](adafruit_qspi_dip_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Qt 3 V To 5 V Level Booster PCB](adafruit_qt_3_v_to_5_v_level_booster_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Qt Py Ch32 V203 PCB](adafruit_qt_py_ch32_v203_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Qt Py Esp32 C3 PCB](adafruit_qt_py_esp32_c3_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Qt Py Esp32 Pico PCB](adafruit_qt_py_esp32_pico_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Qt Py Esp32 S3 PCB](adafruit_qt_py_esp32_s3_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Qt Py Rp2040 PCB](adafruit_qt_py_rp2040_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Qualia Driver PCB](adafruit_qualia_driver_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Qualia S3 Rgb666 PCB](adafruit_qualia_s3_rgb666_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Qwiic Stemma Qt 5 Port Hub PCB](adafruit_qwiic_stemma_qt_5_port_hub_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Qwiic Stemma Qt Breakout Board PCB](adafruit_qwiic_stemma_qt_breakout_board_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Radio Feather Wing PCB](adafruit_radio_feather_wing_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Rfm Lo Ra Radio Breakout PCB](adafruit_rfm_lo_ra_radio_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Rgb Lcd Shield PCB](adafruit_rgb_lcd_shield_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Rgb Matrix Hat PCB](adafruit_rgb_matrix_hat_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Rgb Matrix Shield PCB](adafruit_rgb_matrix_shield_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Rp2040 Can Bus Feather PCB](adafruit_rp2040_can_bus_feather_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Rp2040 Prop Maker Feather PCB](adafruit_rp2040_prop_maker_feather_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Rp2350 Hstx To Dvi Adapter PCB](adafruit_rp2350_hstx_to_dvi_adapter_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Rs 232 Level Shifter Breakout PCB](adafruit_rs_232_level_shifter_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Scd 4x PCB](adafruit_scd_4x_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Sen6x Breakout PCB](adafruit_sen6x_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Servo Hat Bonnet PCB](adafruit_servo_hat_bonnet_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Sgp30 PCB](adafruit_sgp30_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Sgp41 Gas Sensor Breakout PCB](adafruit_sgp41_gas_sensor_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Sharp Memory Display Pcbs](adafruit_sharp_memory_display_pcbs/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Sht31 Sensor Breakout PCB](adafruit_sht31_sensor_breakout_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Sht40 PCB](adafruit_sht40_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit Si4713 PCB](adafruit_si4713_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Si5351 A Clock Generator Breakout PCB](adafruit_si5351_a_clock_generator_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Simple Soil Moisture Sensor PCB](adafruit_simple_soil_moisture_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Slider Trinkey PCB](adafruit_slider_trinkey_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Smt Breakout Pcbs](adafruit_smt_breakout_pcbs/README.md)**  <br><sub>23 projects</sub>
+- **[Adafruit Sparkle Motion PCB](adafruit_sparkle_motion_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Spi Flash Breakout PCB](adafruit_spi_flash_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Spw2430 PCB](adafruit_spw2430_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit St25 Dv16 PCB](adafruit_st25_dv16_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Standalone Capacitive Sensor PCB](adafruit_standalone_capacitive_sensor_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Adafruit Stcc4 And Sht41 Co2 Temperature And Humidity Sensor PCB](adafruit_stcc4_and_sht41_co2_temperature_and_humidity_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Stemma Piezo Driver Amp PCB](adafruit_stemma_piezo_driver_amp_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Stemma Soil Sensor PCB](adafruit_stemma_soil_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Sths34 Pf80 Ir Presence Sensor PCB](adafruit_sths34_pf80_ir_presence_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Sunken USB Type C Breakout PCB](adafruit_sunken_usb_type_c_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Swirly Grid PCB](adafruit_swirly_grid_pcb/README.md)**  <br><sub>7 projects</sub>
+- **[Adafruit Switchable USB Type A To C Breakout Board PCB](adafruit_switchable_usb_type_a_to_c_breakout_board_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tca4307 PCB](adafruit_tca4307_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tca8418 PCB](adafruit_tca8418_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tca9548 A I2 C Multiplexer PCB](adafruit_tca9548_a_i2_c_multiplexer_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tcs3430 Ambient Tri Stimulus Color Sensor PCB](adafruit_tcs3430_ambient_tri_stimulus_color_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Teensy 3 X Feather Adapter PCB](adafruit_teensy_3_x_feather_adapter_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Terminal Block Bff PCB](adafruit_terminal_block_bff_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tfp401 Hdmi To 40 Pin Tft PCB](adafruit_tfp401_hdmi_to_40_pin_tft_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tlc5947 PCB](adafruit_tlc5947_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tlv320 Dac3100 I2 S Dac PCB](adafruit_tlv320_dac3100_i2_s_dac_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tmag5273 3 D Hall Effect Magnetometer Breakout PCB](adafruit_tmag5273_3_d_hall_effect_magnetometer_breakout_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Tmc2209 Breakout PCB](adafruit_tmc2209_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tmf8801 Time Of Flight Distance Sensor PCB](adafruit_tmf8801_time_of_flight_distance_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tmf8806 Time Of Flight Distance Sensor PCB](adafruit_tmf8806_time_of_flight_distance_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tmp119 Temperature Sensor PCB](adafruit_tmp119_temperature_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tpl5110 Power Timer Breakout PCB](adafruit_tpl5110_power_timer_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tps61023 PCB](adafruit_tps61023_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tps61040 PCB](adafruit_tps61040_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tps62827 PCB](adafruit_tps62827_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tps65131 Split Power Supply PCB](adafruit_tps65131_split_power_supply_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Trellis](adafruit_trellis/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Trinket M0 PCB](adafruit_trinket_m0_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Trinket PCB](adafruit_trinket_pcb/README.md)**  <br><sub>4 projects</sub>
+- **[Adafruit Trinkey Qt2040 PCB](adafruit_trinkey_qt2040_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Triple LED Matrix Bonnet PCB](adafruit_triple_led_matrix_bonnet_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Tsl2591 Breakout PCB](adafruit_tsl2591_breakout_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Txb0108 PCB](adafruit_txb0108_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Uda1334 A I2 S Stereo Dac PCB](adafruit_uda1334_a_i2_s_stereo_dac_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Ultimate Gps](adafruit_ultimate_gps/README.md)**  <br><sub>7 projects</sub>
+- **[Adafruit Ultimate Gps Hat PCB](adafruit_ultimate_gps_hat_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Updi Friend PCB](adafruit_updi_friend_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit USB Boarduino PCB](adafruit_usb_boarduino_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit USB Isolator PCB](adafruit_usb_isolator_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit USB Li Ion Li Poly Charger PCB](adafruit_usb_li_ion_li_poly_charger_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit USB Serial Rgb Character Backpack PCB](adafruit_usb_serial_rgb_character_backpack_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit USB Type C Cc Resistor Fixer PCB](adafruit_usb_type_c_cc_resistor_fixer_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit USB Type C Pd Switchable PCB](adafruit_usb_type_c_pd_switchable_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit USB Type C Plug Breakout PCB](adafruit_usb_type_c_plug_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit USB Type C Power Delivery Dummy Breakout PCB](adafruit_usb_type_c_power_delivery_dummy_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Vcnl40 X0 PCB](adafruit_vcnl40_x0_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Vcnl4030 Proximity And Lux Sensor PCB](adafruit_vcnl4030_proximity_and_lux_sensor_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Veml7700 PCB](adafruit_veml7700_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Verter PCB](adafruit_verter_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Vl53 L0 X To F Distance Sensor PCB](adafruit_vl53_l0_x_to_f_distance_sensor_pcb/README.md)**  <br><sub>2 projects</sub>
+- **[Adafruit Vl53 L1 X PCB](adafruit_vl53_l1_x_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Vl53 L4 Cx PCB](adafruit_vl53_l4_cx_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Voice Bonnet PCB](adafruit_voice_bonnet_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Vs1053 Breakout PCB](adafruit_vs1053_breakout_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Wiced Wi Fi Feather PCB](adafruit_wiced_wi_fi_feather_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Adafruit Wii Nunchuck Breakout Adapter PCB](adafruit_wii_nunchuck_breakout_adapter_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Ads1 X15 Breakout Board Pcbs](ads1_x15_breakout_board_pcbs/README.md)**  <br><sub>4 projects</sub>
+- **[Blm Badge PCB](blm_badge_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Data Logger Shield](data_logger_shield/README.md)**  <br><sub>4 projects</sub>
+- **[Dot Star 2020 8x8 Matrix PCB](dot_star_2020_8x8_matrix_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Ds1307 Breakout Board](ds1307_breakout_board/README.md)**  <br><sub>2 projects</sub>
+- **[Ice Tube Clock](ice_tube_clock/README.md)**  <br><sub>1 project</sub>
+- **[Kicad Libraries](kicad_libraries/README.md)**  <br><sub>2 projects</sub>
+- **[Mcume](mcume/README.md)**  <br><sub>17 projects</sub>
+- **[Micro Sd Breakout Board](micro_sd_breakout_board/README.md)**  <br><sub>1 project</sub>
+- **[Monochron](monochron/README.md)**  <br><sub>1 project</sub>
+- **[Neo Pixel Sticks](neo_pixel_sticks/README.md)**  <br><sub>2 projects</sub>
+- **[Pico Dvi](pico_dvi/README.md)**  <br><sub>5 projects</sub>
+- **[Pixie 3 W Smart LED PCB](pixie_3_w_smart_led_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Rp2040 Based Tester Brains PCB](rp2040_based_tester_brains_pcb/README.md)**  <br><sub>1 project</sub>
+- **[Tsl2561 Breakout Board PCB](tsl2561_breakout_board_pcb/README.md)**  <br><sub>3 projects</sub>
+- **[Tv B Gone Kit](tv_b_gone_kit/README.md)**  <br><sub>1 project</sub>
+- **[U2if](u2if/README.md)**  <br><sub>3 projects</sub>
+- **[USB Dc Solar Lithium Ion Polymer Charger](usb_dc_solar_lithium_ion_polymer_charger/README.md)**  <br><sub>2 projects</sub>
+
+</details>
+
+---
+
+[← Back to the catalogue](../../../../README.md) · [Full source repository](https://github.com/oomlout/oomp_electronic_version_5)

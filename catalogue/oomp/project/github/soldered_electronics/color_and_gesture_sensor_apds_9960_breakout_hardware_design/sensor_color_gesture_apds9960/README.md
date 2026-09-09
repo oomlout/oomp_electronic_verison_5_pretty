@@ -1,0 +1,16 @@
+<!-- Generated navigation page. -->
+<sub>[Catalogue](../../../../../../README.md) / [OOMP](../../../../../README.md) / [Project](../../../../README.md) / [GitHub](../../../README.md) / [Soldered Electronics](../../README.md) / [Color And Gesture Sensor Apds 9960 Breakout Hardware Design](../README.md) / Sensor Color Gesture Apds9960</sub>
+
+# OOMP / Project / GitHub / Soldered Electronics / Color And Gesture Sensor Apds 9960 Breakout Hardware Design / Sensor Color Gesture Apds9960
+
+> Browse this branch of the OOMP taxonomy. Choose a group below to narrow the catalogue.
+
+**1** project
+
+## Explore
+
+- **[Current](current/README.md)**  <br><sub>1 project</sub>
+
+---
+
+[← Back to the catalogue](../../../../../../README.md) · [Full source repository](https://github.com/oomlout/oomp_electronic_version_5)

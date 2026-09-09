@@ -1,0 +1,16 @@
+<!-- Generated navigation page. -->
+<sub>[Catalogue](../../../../../README.md) / [OOMP](../../../../README.md) / [Project](../../../README.md) / [GitHub](../../README.md) / [Sparkfun](../README.md) / Lsm303 C 6 Dof Imu Breakout</sub>
+
+# OOMP / Project / GitHub / Sparkfun / Lsm303 C 6 Dof Imu Breakout
+
+> Browse this branch of the OOMP taxonomy. Choose a group below to narrow the catalogue.
+
+**1** project
+
+## Explore
+
+- **[Spark Fun Lsm303 C 6 Dof Imu Breakout](spark_fun_lsm303_c_6_dof_imu_breakout/README.md)**  <br><sub>1 project</sub>
+
+---
+
+[← Back to the catalogue](../../../../../README.md) · [Full source repository](https://github.com/oomlout/oomp_electronic_version_5)

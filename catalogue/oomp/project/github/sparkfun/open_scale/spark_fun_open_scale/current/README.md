@@ -1,0 +1,37 @@
+<!-- Generated item page. Full data lives in the source repository. -->
+<sub>[Catalogue](../../../../../../../README.md) / [OOMP](../../../../../../README.md) / [Project](../../../../../README.md) / [GitHub](../../../../README.md) / [Sparkfun](../../../README.md) / [Open Scale](../../README.md) / [Spark Fun Open Scale](../README.md) / Current</sub>
+
+# 🧭 Project sparkfun/OpenScale Spark Fun open Scale current
+
+> A concise OOMP hardware project organised under OOMP › Project › GitHub › Sparkfun.
+
+<div align="center">
+
+**[Full details →](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_open_scale_spark_fun_open_scale_current)** · [Original project files](https://github.com/sparkfun/OpenScale/blob/master/hardware/SparkFun_openScale.brd)
+
+</div>
+
+## At a glance
+
+| Detail | Value |
+| --- | --- |
+| Owner | sparkfun |
+| Repository | OpenScale |
+| Board | Spark Fun open Scale |
+| Source format | eagle |
+| Version | current |
+| Git ref | master |
+| OOMP ID | `oomp_project_github_sparkfun_open_scale_spark_fun_open_scale_current` |
+
+## Catalogue location
+
+`OOMP › Project › GitHub › Sparkfun › Open Scale › Spark Fun Open Scale › Current`
+
+
+## About this page
+
+This is the compact catalogue view. This index entry was built directly from its working metadata. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_sparkfun_open_scale_spark_fun_open_scale_current).
+
+---
+
+[↑ Parent category](../README.md) · [Catalogue home](../../../../../../../README.md)

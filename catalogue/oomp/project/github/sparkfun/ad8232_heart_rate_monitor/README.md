@@ -1,0 +1,16 @@
+<!-- Generated navigation page. -->
+<sub>[Catalogue](../../../../../README.md) / [OOMP](../../../../README.md) / [Project](../../../README.md) / [GitHub](../../README.md) / [Sparkfun](../README.md) / Ad8232 Heart Rate Monitor</sub>
+
+# OOMP / Project / GitHub / Sparkfun / Ad8232 Heart Rate Monitor
+
+> Browse this branch of the OOMP taxonomy. Choose a group below to narrow the catalogue.
+
+**1** project
+
+## Explore
+
+- **[Ad8232 Heart Rate Monitor](ad8232_heart_rate_monitor/README.md)**  <br><sub>1 project</sub>
+
+---
+
+[← Back to the catalogue](../../../../../README.md) · [Full source repository](https://github.com/oomlout/oomp_electronic_version_5)

@@ -1,0 +1,16 @@
+<!-- Generated navigation page. -->
+<sub>[Catalogue](../../../../../../README.md) / [OOMP](../../../../../README.md) / [Project](../../../../README.md) / [GitHub](../../../README.md) / [Adafruit](../../README.md) / [Adafruit Tmag5273 3 D Hall Effect Magnetometer Breakout PCB](../README.md) / Adafruit Tmag5273 A2 3 D Hall Effect Magnetometer Breakout</sub>
+
+# OOMP / Project / GitHub / Adafruit / Adafruit Tmag5273 3 D Hall Effect Magnetometer Breakout PCB / Adafruit Tmag5273 A2 3 D Hall Effect Magnetometer Breakout
+
+> Browse this branch of the OOMP taxonomy. Choose a group below to narrow the catalogue.
+
+**1** project
+
+## Explore
+
+- **[Current](current/README.md)**  <br><sub>1 project</sub>
+
+---
+
+[← Back to the catalogue](../../../../../../README.md) · [Full source repository](https://github.com/oomlout/oomp_electronic_version_5)

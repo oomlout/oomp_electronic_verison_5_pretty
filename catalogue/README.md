@@ -9,10 +9,9 @@
 
 ## Explore
 
-- **[Electronic](electronic/README.md)**  <br><sub>1,193 components</sub>
+- **[Electronic](electronic/README.md)**  <br><sub>1,194 components</sub>
 - **[Mechanical](mechanical/README.md)**  <br><sub>50 mechanical items</sub>
 - **[OOMP](oomp/README.md)**  <br><sub>915 projects</sub>
-- **[Uncategorised](uncategorised/README.md)**  <br><sub>1 component</sub>
 
 ---
 

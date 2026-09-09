@@ -1,11 +1,11 @@
 <!-- Generated item page. Full data lives in the source repository. -->
-<sub>[Catalogue](../../README.md) / [Uncategorised](../README.md) / Electronic Resistor 0603 390000 Ohm</sub>
+<sub>[Catalogue](../../../../README.md) / [Electronic](../../../README.md) / [Resistor](../../README.md) / [0603](../README.md) / 390000 Ohm</sub>
 
-# ⚡ Electronic Resistor 0603 390000 Ohm
+# ⚡ Resistor 390000 Ohm 0603
 
 > Resistor 390000 Ohm 0603 is an OOMP electronic resistor definition. It uses the 0603 package or form factor. Its nominal drawing size is 1.6 × 0.8 mm.
 
-<p align="center"><img src="preview.png" alt="Electronic Resistor 0603 390000 Ohm preview" width="560"></p>
+<p align="center"><img src="preview.png" alt="Resistor 390000 Ohm 0603 preview" width="560"></p>
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 ## Catalogue location
 
-`Uncategorised › Electronic Resistor 0603 390000 Ohm`
+`Electronic › Resistor › 0603 › 390000 Ohm`
 
 
 ## About this page
@@ -33,4 +33,4 @@ This is the compact catalogue view. A detailed source README is available. Schem
 
 ---
 
-[↑ Parent category](../README.md) · [Catalogue home](../../README.md)
+[↑ Parent category](../README.md) · [Catalogue home](../../../../README.md)

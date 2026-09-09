@@ -17,10 +17,9 @@
 
 | Collection | Inside |
 | --- | --- |
-| ⚡ **[Electronic](catalogue/electronic/README.md)** | 1,193 components |
+| ⚡ **[Electronic](catalogue/electronic/README.md)** | 1,194 components |
 | ⚙️ **[Mechanical](catalogue/mechanical/README.md)** | 50 mechanical items |
 | 🧭 **[OOMP](catalogue/oomp/README.md)** | 915 projects |
-| • **[Uncategorised](catalogue/uncategorised/README.md)** | 1 component |
 
 ## Designed for browsing
 

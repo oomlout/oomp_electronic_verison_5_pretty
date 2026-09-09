@@ -3,7 +3,7 @@
 
 # 🧭 Project adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB 1.8 Inch TFT Breakout
 
-> A concise OOMP hardware project organised under OOMP › Project › GitHub › Adafruit.
+> Project adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB 1.8 Inch TFT Breakout current is a KiCad project containing 43 extracted component records. The catalogue matcher linked 8 physical placements to OOMP parts.
 
 <p align="center"><img src="preview.png" alt="Project adafruit/Adafruit_1.8_Inch_TFT_Breakout_PCB 1.8 Inch TFT Breakout preview" width="560"></p>
 
@@ -17,11 +17,16 @@
 
 | Detail | Value |
 | --- | --- |
-| Owner | adafruit |
-| Repository | Adafruit_1.8_Inch_TFT_Breakout_PCB |
-| Board | 1.8 Inch TFT Breakout |
-| Source format | eagle |
-| Version | current |
+| Components | 43 |
+| PCB footprints | 20 |
+| Mounting and locating holes | 6 |
+| Matched OOMP mounting-hole items | 4 |
+| Schematic symbols | 44 |
+| Matched OOMP components | 8 |
+| Unmatched physical components | 6 |
+| Front-side placements | 10 |
+| Back-side placements | 0 |
+| Project version | current |
 | Git ref | master |
 | OOMP ID | `oomp_project_github_adafruit_adafruit_1_8_inch_tft_breakout_pcb_1_8_inch_tft_breakout_current` |
 
@@ -32,7 +37,7 @@
 
 ## About this page
 
-This is the compact catalogue view. This index entry was built directly from its working metadata. The [board explorer page](https://html-preview.github.io/?url=https://github.com/oomlout/oomp_electronic_verison_5_pretty/blob/main/catalogue/oomp/project/github/adafruit/adafruit_1_8_inch_tft_breakout_pcb/1_8_inch_tft_breakout/current/board_explorer.html) currently shows the project preview and source links; interactive board geometry will appear after the source project has been processed. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_1_8_inch_tft_breakout_pcb_1_8_inch_tft_breakout_current).
+This is the compact catalogue view. A detailed source README is available. The [interactive board explorer](https://html-preview.github.io/?url=https://github.com/oomlout/oomp_electronic_verison_5_pretty/blob/main/catalogue/oomp/project/github/adafruit/adafruit_1_8_inch_tft_breakout_pcb/1_8_inch_tft_breakout/current/board_explorer.html) is included as a self-contained HTML page. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_1_8_inch_tft_breakout_pcb_1_8_inch_tft_breakout_current).
 
 ---
 

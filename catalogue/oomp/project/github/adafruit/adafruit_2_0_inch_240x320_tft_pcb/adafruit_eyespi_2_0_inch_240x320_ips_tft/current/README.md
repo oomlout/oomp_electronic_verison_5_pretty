@@ -3,7 +3,7 @@
 
 # 🧭 Project adafruit/Adafruit-2.0-inch-240x320-TFT-PCB Adafruit EYESPI 2.0
 
-> A concise OOMP hardware project organised under OOMP › Project › GitHub › Adafruit.
+> Project adafruit/Adafruit-2.0-inch-240x320-TFT-PCB Adafruit EYESPI 2.0 Inch 240x320 IPS TFT current is a KiCad project containing 71 extracted component records. The catalogue matcher linked 12 physical placements to OOMP parts.
 
 <p align="center"><img src="preview.png" alt="Project adafruit/Adafruit-2.0-inch-240x320-TFT-PCB Adafruit EYESPI 2.0 preview" width="560"></p>
 
@@ -17,11 +17,16 @@
 
 | Detail | Value |
 | --- | --- |
-| Owner | adafruit |
-| Repository | Adafruit-2.0-inch-240x320-TFT-PCB |
-| Board | Adafruit EYESPI 2.0 Inch 240x320 IPS TFT |
-| Source format | eagle |
-| Version | current |
+| Components | 71 |
+| PCB footprints | 48 |
+| Mounting and locating holes | 2 |
+| Matched OOMP mounting-hole items | 2 |
+| Schematic symbols | 44 |
+| Matched OOMP components | 12 |
+| Unmatched physical components | 30 |
+| Front-side placements | 27 |
+| Back-side placements | 13 |
+| Project version | current |
 | Git ref | master |
 | OOMP ID | `oomp_project_github_adafruit_adafruit_2_0_inch_240x320_tft_pcb_adafruit_eyespi_2_0_inch_240x320_ips_tft_current` |
 
@@ -32,7 +37,7 @@
 
 ## About this page
 
-This is the compact catalogue view. This index entry was built directly from its working metadata. The [board explorer page](https://html-preview.github.io/?url=https://github.com/oomlout/oomp_electronic_verison_5_pretty/blob/main/catalogue/oomp/project/github/adafruit/adafruit_2_0_inch_240x320_tft_pcb/adafruit_eyespi_2_0_inch_240x320_ips_tft/current/board_explorer.html) currently shows the project preview and source links; interactive board geometry will appear after the source project has been processed. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_2_0_inch_240x320_tft_pcb_adafruit_eyespi_2_0_inch_240x320_ips_tft_current).
+This is the compact catalogue view. A detailed source README is available. The [interactive board explorer](https://html-preview.github.io/?url=https://github.com/oomlout/oomp_electronic_verison_5_pretty/blob/main/catalogue/oomp/project/github/adafruit/adafruit_2_0_inch_240x320_tft_pcb/adafruit_eyespi_2_0_inch_240x320_ips_tft/current/board_explorer.html) is included as a self-contained HTML page. Schematics, fabrication data, working metadata, alternate diagrams, availability data, and project analysis stay with the [full original record](https://github.com/oomlout/oomp_electronic_version_5/tree/main/parts/oomp_project_github_adafruit_adafruit_2_0_inch_240x320_tft_pcb_adafruit_eyespi_2_0_inch_240x320_ips_tft_current).
 
 ---
 
